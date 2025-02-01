@@ -1,0 +1,1001 @@
+Transaction_ID,User_ID,Transaction_Amount,Transaction_Date,Transaction_Type,Merchant_ID,Location,Payment_Method,Flagged_Transaction,reason
+TRAN1234,USERID1,80808,01-01-2024,withdrawal,MA123,Hekou,banktranfer,1,highamount
+TRAN1235,USERID2,18685,01-01-2024,withdrawal,MA124,Agana Heights Village,wallet,3,N/A
+TRAN1236,USERID3,92628,01-01-2024,transfer,MA125,Malpique,wallet,1,highamount
+TRAN1237,USERID4,90151,01-01-2024,payement,MA126,Meilong,credit,1,highamount
+TRAN1238,USERID5,89184,01-01-2024,transfer,MA127,Pengdian,wallet,1,highamount
+TRAN1239,USERID6,83034,01-01-2024,transfer,MA128,Eldoret,wallet,1,highamount
+TRAN1240,USERID7,15594,01-01-2024,withdrawal,MA129,Ágios Spyrídon,wallet,3,N/A
+TRAN1241,USERID8,90128,01-01-2024,payement,MA130,Jeding,credit,1,highamount
+TRAN1242,USERID9,21539,01-01-2024,payement,MA131,Nguigmi,wallet,3,N/A
+TRAN1243,USERID10,69547,01-01-2024,transfer,MA132,Panshan,wallet,1,highamount
+TRAN1244,USERID11,78000,01-01-2024,transfer,MA133,Atambua,wallet,1,highamount
+TRAN1245,USERID12,11222,02-01-2024,payement,MA134,Ulster Spring,credit,3,N/A
+TRAN1246,USERID13,83540,02-01-2024,transfer,MA135,Nowe Grocholice,wallet,1,highamount
+TRAN1247,USERID14,10413,02-01-2024,payement,MA136,Göteborg,credit,3,N/A
+TRAN1248,USERID15,21661,02-01-2024,payement,MA137,Tsibulev,credit,3,N/A
+TRAN1249,USERID16,29596,02-01-2024,transfer,MA138,Mantalongon,banktranfer,3,N/A
+TRAN1250,USERID17,94059,02-01-2024,transfer,MA139,Xiangying,wallet,1,highamount
+TRAN1251,USERID18,93935,02-01-2024,payement,MA140,Severobaykal’sk,wallet,1,highamount
+TRAN1252,USERID19,66490,02-01-2024,transfer,MA141,Baisha,wallet,1,highamount
+TRAN1253,USERID20,54185,02-01-2024,payement,MA142,??i Ngô,credit,1,highamount
+TRAN1254,USERID21,84726,02-01-2024,payement,MA143,Velingrad,banktranfer,1,highamount
+TRAN1255,USERID22,85661,02-01-2024,withdrawal,MA144,Koba,wallet,1,highamount
+TRAN1256,USERID23,45933,02-01-2024,payement,MA145,not data,credit,2,unknow location
+TRAN1257,USERID24,55994,02-01-2024,payement,MA146,Salamina,banktranfer,1,highamount
+TRAN1258,USERID25,19474,02-01-2024,transfer,MA147,São Caetano do Sul,wallet,3,N/A
+TRAN1259,USERID26,99367,02-01-2024,withdrawal,MA148,Guayabal de Síquima,banktranfer,1,highamount
+TRAN1260,USERID27,13441,02-01-2024,withdrawal,MA149,Bratsk,banktranfer,3,N/A
+TRAN1261,USERID28,46536,02-01-2024,transfer,MA150,not data,credit,2,unknow location
+TRAN1262,USERID29,12421,02-01-2024,transfer,MA151,Stutterheim,credit,3,N/A
+TRAN1263,USERID30,34351,02-01-2024,payement,MA152,not data,wallet,2,unknow location
+TRAN1264,USERID31,35425,02-01-2024,payement,MA153,not data,banktranfer,2,unknow location
+TRAN1265,USERID32,69806,02-01-2024,transfer,MA154,Samal,banktranfer,1,highamount
+TRAN1266,USERID33,97798,02-01-2024,withdrawal,MA155,London,wallet,1,highamount
+TRAN1267,USERID34,70945,02-01-2024,payement,MA156,Borås,wallet,1,highamount
+TRAN1268,USERID35,46857,02-01-2024,payement,MA157,not data,wallet,2,unknow location
+TRAN1269,USERID36,80010,02-01-2024,payement,MA158,Fort Beaufort,banktranfer,1,highamount
+TRAN1270,USERID37,38475,02-01-2024,withdrawal,MA159,not data,banktranfer,2,unknow location
+TRAN1271,USERID38,78773,02-01-2024,withdrawal,MA160,Strömstad,wallet,1,highamount
+TRAN1272,USERID39,46232,02-01-2024,transfer,MA161,not data,wallet,2,unknow location
+TRAN1273,USERID40,91180,02-01-2024,payement,MA162,Bungtiang Barat,credit,1,highamount
+TRAN1274,USERID41,54343,02-01-2024,transfer,MA163,Duanjia,credit,1,highamount
+TRAN1275,USERID42,79902,02-01-2024,withdrawal,MA164,Paris 07,credit,1,highamount
+TRAN1276,USERID43,78308,02-01-2024,transfer,MA165,Jianling,wallet,1,highamount
+TRAN1277,USERID44,19379,02-01-2024,withdrawal,MA166,Koshigaya,wallet,3,N/A
+TRAN1278,USERID45,44842,02-01-2024,withdrawal,MA167,not data,banktranfer,2,unknow location
+TRAN1279,USERID46,58631,02-01-2024,payement,MA168,Novoselec,wallet,1,highamount
+TRAN1280,USERID47,55001,02-01-2024,withdrawal,MA169,Logung,wallet,1,highamount
+TRAN1281,USERID48,99228,02-01-2024,withdrawal,MA170,Roma,banktranfer,1,highamount
+TRAN1282,USERID49,25800,02-01-2024,payement,MA171,Sherwood Park,credit,3,N/A
+TRAN1283,USERID50,38349,02-01-2024,transfer,MA172,not data,wallet,2,unknow location
+TRAN1284,USERID51,94100,02-01-2024,withdrawal,MA173,Tulcán,banktranfer,1,highamount
+TRAN1285,USERID52,73788,02-01-2024,withdrawal,MA174,Chacarita,credit,1,highamount
+TRAN1286,USERID53,29390,02-01-2024,transfer,MA175,Golub-Dobrzy?,banktranfer,3,N/A
+TRAN1287,USERID54,46064,02-01-2024,payement,MA176,not data,banktranfer,2,unknow location
+TRAN1288,USERID55,25344,02-01-2024,payement,MA177,Mahdia,banktranfer,3,N/A
+TRAN1289,USERID56,22604,02-01-2024,transfer,MA178,Alpedrinha,wallet,3,N/A
+TRAN1290,USERID57,79443,02-01-2024,transfer,MA179,Montpellier,wallet,1,highamount
+TRAN1291,USERID58,22242,02-01-2024,payement,MA180,Shengtang,credit,3,N/A
+TRAN1292,USERID59,24148,02-01-2024,withdrawal,MA181,Masuda,wallet,3,N/A
+TRAN1293,USERID60,30801,02-01-2024,payement,MA182,not data,wallet,2,unknow location
+TRAN1294,USERID61,44866,02-01-2024,payement,MA183,not data,wallet,2,unknow location
+TRAN1295,USERID62,22721,02-01-2024,transfer,MA184,Santa Cruz do Rio Pardo,wallet,3,N/A
+TRAN1296,USERID63,54774,02-01-2024,withdrawal,MA185,Moroni,banktranfer,1,highamount
+TRAN1297,USERID64,83471,02-01-2024,payement,MA186,Chiguang,banktranfer,1,highamount
+TRAN1298,USERID65,26487,02-01-2024,transfer,MA187,San Roque,wallet,3,N/A
+TRAN1299,USERID66,96824,02-01-2024,transfer,MA188,Armenia,credit,1,highamount
+TRAN1300,USERID67,69828,02-01-2024,withdrawal,MA189,Maglaj,banktranfer,1,highamount
+TRAN1301,USERID68,71012,02-01-2024,transfer,MA190,S?o?sk,credit,1,highamount
+TRAN1302,USERID69,93642,02-01-2024,withdrawal,MA191,Cerro de Pasco,banktranfer,1,highamount
+TRAN1303,USERID70,90130,02-01-2024,withdrawal,MA192,Nueva Loja,credit,1,highamount
+TRAN1304,USERID71,97414,02-01-2024,withdrawal,MA193,Bajia,credit,1,highamount
+TRAN1305,USERID72,34494,02-01-2024,withdrawal,MA194,not data,credit,2,unknow location
+TRAN1306,USERID73,61734,02-01-2024,payement,MA195,Linköping,wallet,1,highamount
+TRAN1307,USERID74,90957,03-01-2024,payement,MA196,Pio,wallet,1,highamount
+TRAN1308,USERID75,31796,03-01-2024,transfer,MA197,not data,banktranfer,2,unknow location
+TRAN1309,USERID76,57376,03-01-2024,payement,MA198,Putina,wallet,1,highamount
+TRAN1310,USERID77,84465,03-01-2024,payement,MA199,Radiši?i,wallet,1,highamount
+TRAN1311,USERID78,12032,03-01-2024,transfer,MA200,Turmus‘ayy?,wallet,3,N/A
+TRAN1312,USERID79,91748,03-01-2024,transfer,MA201,Xinghua,banktranfer,1,highamount
+TRAN1313,USERID80,26320,03-01-2024,withdrawal,MA202,Obolo-Eke (1),wallet,3,N/A
+TRAN1314,USERID81,65573,03-01-2024,withdrawal,MA203,Puncakmanis,banktranfer,1,highamount
+TRAN1315,USERID82,51116,03-01-2024,withdrawal,MA204,Krajan,banktranfer,1,highamount
+TRAN1316,USERID83,18919,03-01-2024,payement,MA205,Ayna,wallet,3,N/A
+TRAN1317,USERID84,53029,03-01-2024,withdrawal,MA206,Suban Jeriji,banktranfer,1,highamount
+TRAN1318,USERID85,55798,03-01-2024,payement,MA207,Panji,credit,1,highamount
+TRAN1319,USERID86,63002,03-01-2024,withdrawal,MA208,Malhou,wallet,1,highamount
+TRAN1320,USERID87,99259,03-01-2024,payement,MA209,Helsingborg,banktranfer,1,highamount
+TRAN1321,USERID88,53942,03-01-2024,payement,MA210,Zhuangxing,banktranfer,1,highamount
+TRAN1322,USERID89,93869,03-01-2024,withdrawal,MA211,Manas,credit,1,highamount
+TRAN1323,USERID90,41759,03-01-2024,transfer,MA212,not data,credit,2,unknow location
+TRAN1324,USERID91,75297,03-01-2024,payement,MA213,Al Quraysh?yah,wallet,1,highamount
+TRAN1325,USERID92,43606,03-01-2024,payement,MA214,not data,wallet,2,unknow location
+TRAN1326,USERID93,34340,03-01-2024,withdrawal,MA215,not data,banktranfer,2,unknow location
+TRAN1327,USERID94,70108,03-01-2024,payement,MA216,Khud?yd?d Kh?l,wallet,1,highamount
+TRAN1328,USERID95,49982,03-01-2024,payement,MA217,not data,wallet,2,unknow location
+TRAN1329,USERID96,18281,03-01-2024,transfer,MA218,Szeged,banktranfer,3,N/A
+TRAN1330,USERID97,66647,03-01-2024,payement,MA219,Tinawagan,wallet,1,highamount
+TRAN1331,USERID98,29850,03-01-2024,transfer,MA220,Bor,wallet,3,N/A
+TRAN1332,USERID99,30097,03-01-2024,withdrawal,MA221,not data,credit,2,unknow location
+TRAN1333,USERID100,52472,03-01-2024,withdrawal,MA222,Ngori,wallet,1,highamount
+TRAN1334,USERID101,58127,03-01-2024,transfer,MA223,Baguio,wallet,1,highamount
+TRAN1335,USERID102,92582,03-01-2024,transfer,MA224,Buenaventura,credit,1,highamount
+TRAN1336,USERID103,95454,03-01-2024,payement,MA225,Berlín,banktranfer,1,highamount
+TRAN1337,USERID104,59157,03-01-2024,payement,MA226,Almelo,wallet,1,highamount
+TRAN1338,USERID105,36947,03-01-2024,transfer,MA227,not data,wallet,2,unknow location
+TRAN1339,USERID106,98560,03-01-2024,payement,MA228,Marne-la-Vallée,credit,1,highamount
+TRAN1340,USERID107,63993,03-01-2024,payement,MA229,Ruzhany,wallet,1,highamount
+TRAN1341,USERID108,55986,03-01-2024,payement,MA230,Cigintung,banktranfer,1,highamount
+TRAN1342,USERID109,65743,03-01-2024,payement,MA231,Chencai,banktranfer,1,highamount
+TRAN1343,USERID110,99792,03-01-2024,withdrawal,MA232,Tianjiazhai,wallet,1,highamount
+TRAN1344,USERID111,74722,03-01-2024,payement,MA233,Vikbolandet,wallet,1,highamount
+TRAN1345,USERID112,58976,03-01-2024,withdrawal,MA234,Lengshuijing,credit,1,highamount
+TRAN1346,USERID113,76117,03-01-2024,transfer,MA235,Suphan Buri,wallet,1,highamount
+TRAN1347,USERID114,87224,04-01-2024,transfer,MA236,B?ft,banktranfer,1,highamount
+TRAN1348,USERID115,17898,04-01-2024,transfer,MA237,Bayasgalant,credit,3,N/A
+TRAN1349,USERID116,37715,04-01-2024,payement,MA238,not data,credit,2,unknow location
+TRAN1350,USERID117,17786,04-01-2024,withdrawal,MA239,Osvaldo Cruz,credit,3,N/A
+TRAN1351,USERID118,63006,04-01-2024,withdrawal,MA240,Sakhipur,wallet,1,highamount
+TRAN1352,USERID119,35045,04-01-2024,payement,MA241,not data,banktranfer,2,unknow location
+TRAN1353,USERID120,15317,04-01-2024,payement,MA242,Laxey,credit,3,N/A
+TRAN1354,USERID121,90308,04-01-2024,withdrawal,MA243,???????,wallet,1,highamount
+TRAN1355,USERID122,36124,04-01-2024,transfer,MA244,not data,wallet,2,unknow location
+TRAN1356,USERID123,38882,04-01-2024,withdrawal,MA245,not data,wallet,2,unknow location
+TRAN1357,USERID124,43203,04-01-2024,payement,MA246,not data,credit,2,unknow location
+TRAN1358,USERID125,33187,04-01-2024,withdrawal,MA247,not data,wallet,2,unknow location
+TRAN1359,USERID126,22802,04-01-2024,transfer,MA248,Shanglu,credit,3,N/A
+TRAN1360,USERID127,50188,04-01-2024,transfer,MA249,Saumur,wallet,1,highamount
+TRAN1361,USERID128,65566,04-01-2024,payement,MA250,Figueira dos Cavaleiros,banktranfer,1,highamount
+TRAN1362,USERID129,22266,04-01-2024,withdrawal,MA251,Pochinok,wallet,3,N/A
+TRAN1363,USERID130,83090,04-01-2024,withdrawal,MA252,Panineungan,credit,1,highamount
+TRAN1364,USERID131,29496,04-01-2024,payement,MA253,Edsbyn,credit,3,N/A
+TRAN1365,USERID132,43749,04-01-2024,transfer,MA254,not data,banktranfer,2,unknow location
+TRAN1366,USERID133,79012,04-01-2024,transfer,MA255,Langtou,credit,1,highamount
+TRAN1367,USERID134,85280,04-01-2024,transfer,MA256,Orlovskiy,banktranfer,1,highamount
+TRAN1368,USERID135,32380,04-01-2024,transfer,MA257,not data,banktranfer,2,unknow location
+TRAN1369,USERID136,58714,04-01-2024,withdrawal,MA258,Selopuro,banktranfer,1,highamount
+TRAN1370,USERID137,63446,04-01-2024,transfer,MA259,Liuli,wallet,1,highamount
+TRAN1371,USERID138,56206,04-01-2024,payement,MA260,Georgetown,banktranfer,1,highamount
+TRAN1372,USERID139,79703,04-01-2024,payement,MA261,Payxambabazar,banktranfer,1,highamount
+TRAN1373,USERID140,81168,04-01-2024,transfer,MA262,Shalazhi,banktranfer,1,highamount
+TRAN1374,USERID141,20471,04-01-2024,transfer,MA263,Fulu,wallet,3,N/A
+TRAN1375,USERID142,41141,04-01-2024,transfer,MA264,not data,banktranfer,2,unknow location
+TRAN1376,USERID143,41388,04-01-2024,transfer,MA265,not data,credit,2,unknow location
+TRAN1377,USERID144,40751,04-01-2024,transfer,MA266,not data,credit,2,unknow location
+TRAN1378,USERID145,98221,04-01-2024,transfer,MA267,Cabreúva,wallet,1,highamount
+TRAN1379,USERID146,85270,04-01-2024,payement,MA268,Danyang,wallet,1,highamount
+TRAN1380,USERID147,97851,04-01-2024,transfer,MA269,Södertälje,credit,1,highamount
+TRAN1381,USERID148,38050,04-01-2024,withdrawal,MA270,not data,wallet,2,unknow location
+TRAN1382,USERID149,90317,04-01-2024,payement,MA271,Galitsy,wallet,1,highamount
+TRAN1383,USERID150,37237,04-01-2024,payement,MA272,not data,wallet,2,unknow location
+TRAN1384,USERID151,78601,04-01-2024,transfer,MA273,Hisai,wallet,1,highamount
+TRAN1385,USERID152,72591,04-01-2024,withdrawal,MA274,Mataigou,credit,1,highamount
+TRAN1386,USERID153,49246,04-01-2024,payement,MA275,not data,wallet,2,unknow location
+TRAN1387,USERID154,18077,04-01-2024,transfer,MA276,Kabinda,credit,3,N/A
+TRAN1388,USERID155,44986,04-01-2024,withdrawal,MA277,not data,wallet,2,unknow location
+TRAN1389,USERID156,53031,04-01-2024,withdrawal,MA278,Cergy-Pontoise,credit,1,highamount
+TRAN1390,USERID157,39651,04-01-2024,payement,MA279,not data,banktranfer,2,unknow location
+TRAN1391,USERID158,99165,04-01-2024,transfer,MA280,Avaré,credit,1,highamount
+TRAN1392,USERID159,75748,04-01-2024,transfer,MA281,Créteil,wallet,1,highamount
+TRAN1393,USERID160,80808,04-01-2024,transfer,MA282,Wawa,banktranfer,1,highamount
+TRAN1394,USERID161,27801,04-01-2024,transfer,MA283,Bahía Blanca,wallet,3,N/A
+TRAN1395,USERID162,21278,04-01-2024,transfer,MA284,Pansoy,wallet,3,N/A
+TRAN1396,USERID163,21014,04-01-2024,transfer,MA285,Bomadi,banktranfer,3,N/A
+TRAN1397,USERID164,56513,04-01-2024,withdrawal,MA286,Ube,credit,1,highamount
+TRAN1398,USERID165,89155,04-01-2024,transfer,MA287,Portela,wallet,1,highamount
+TRAN1399,USERID166,97569,04-01-2024,transfer,MA288,Anju,banktranfer,1,highamount
+TRAN1400,USERID167,53799,04-01-2024,transfer,MA289,Bukor,banktranfer,1,highamount
+TRAN1401,USERID168,74015,04-01-2024,payement,MA290,Muleng,credit,1,highamount
+TRAN1402,USERID169,81974,04-01-2024,withdrawal,MA291,Arauco,wallet,1,highamount
+TRAN1403,USERID170,30047,04-01-2024,withdrawal,MA292,not data,banktranfer,2,unknow location
+TRAN1404,USERID171,19485,04-01-2024,withdrawal,MA293,Columbus,credit,3,N/A
+TRAN1405,USERID172,56421,04-01-2024,payement,MA294,Saint-Quentin-Fallavier,wallet,1,highamount
+TRAN1406,USERID173,17635,04-01-2024,transfer,MA295,T?r?n,wallet,3,N/A
+TRAN1407,USERID174,60570,04-01-2024,payement,MA296,Zagórze,wallet,1,highamount
+TRAN1408,USERID175,96775,04-01-2024,transfer,MA297,Karney Shomron,wallet,1,highamount
+TRAN1409,USERID176,65064,04-01-2024,transfer,MA298,Taichung,wallet,1,highamount
+TRAN1410,USERID177,80934,04-01-2024,withdrawal,MA299,Malabang,wallet,1,highamount
+TRAN1411,USERID178,42076,04-01-2024,withdrawal,MA300,not data,wallet,2,unknow location
+TRAN1412,USERID179,42957,04-01-2024,withdrawal,MA301,not data,banktranfer,2,unknow location
+TRAN1413,USERID180,26079,04-01-2024,payement,MA302,Iraray,banktranfer,3,N/A
+TRAN1414,USERID181,26929,04-01-2024,transfer,MA303,Pau,banktranfer,3,N/A
+TRAN1415,USERID182,22177,04-01-2024,withdrawal,MA304,Shak?so,banktranfer,3,N/A
+TRAN1416,USERID183,26593,04-01-2024,transfer,MA305,Stopnica,wallet,3,N/A
+TRAN1417,USERID184,32092,04-01-2024,transfer,MA306,not data,credit,2,unknow location
+TRAN1418,USERID185,90660,04-01-2024,withdrawal,MA307,Domampot,banktranfer,1,highamount
+TRAN1419,USERID186,94743,04-01-2024,withdrawal,MA308,Linstead,credit,1,highamount
+TRAN1420,USERID187,14453,04-01-2024,transfer,MA309,Simabur,wallet,3,N/A
+TRAN1421,USERID188,20761,04-01-2024,transfer,MA310,Gaoqiao,credit,3,N/A
+TRAN1422,USERID189,51596,04-01-2024,withdrawal,MA311,Krzczonów,wallet,1,highamount
+TRAN1423,USERID190,93060,04-01-2024,withdrawal,MA312,Confey,wallet,1,highamount
+TRAN1424,USERID191,99801,04-01-2024,payement,MA313,Pumaqangtang,banktranfer,1,highamount
+TRAN1425,USERID192,11572,04-01-2024,withdrawal,MA314,Gamut,banktranfer,3,N/A
+TRAN1426,USERID193,69479,04-01-2024,withdrawal,MA315,Lubango,banktranfer,1,highamount
+TRAN1427,USERID194,34388,04-01-2024,withdrawal,MA316,not data,wallet,2,unknow location
+TRAN1428,USERID195,31128,04-01-2024,transfer,MA317,not data,banktranfer,2,unknow location
+TRAN1429,USERID196,66447,04-01-2024,payement,MA318,Boucinha,banktranfer,1,highamount
+TRAN1430,USERID197,54439,04-01-2024,transfer,MA319,Rodhítsa,banktranfer,1,highamount
+TRAN1431,USERID198,31274,04-01-2024,transfer,MA320,not data,credit,2,unknow location
+TRAN1432,USERID199,37145,04-01-2024,transfer,MA321,not data,credit,2,unknow location
+TRAN1433,USERID200,37705,04-01-2024,withdrawal,MA322,not data,credit,2,unknow location
+TRAN1434,USERID201,75841,04-01-2024,withdrawal,MA323,Chervone,credit,1,highamount
+TRAN1435,USERID202,49068,04-01-2024,transfer,MA324,not data,credit,2,unknow location
+TRAN1436,USERID203,89243,04-01-2024,payement,MA325,Mayma,banktranfer,1,highamount
+TRAN1437,USERID204,95304,04-01-2024,payement,MA326,Al ‘An?n,banktranfer,1,highamount
+TRAN1438,USERID205,57184,04-01-2024,withdrawal,MA327,Quyangqiao,credit,1,highamount
+TRAN1439,USERID206,65299,04-01-2024,payement,MA328,Lyamino,wallet,1,highamount
+TRAN1440,USERID207,94298,05-01-2024,withdrawal,MA329,Torbeyevo,credit,1,highamount
+TRAN1441,USERID208,93676,05-01-2024,transfer,MA330,Buchanan,banktranfer,1,highamount
+TRAN1442,USERID209,86937,05-01-2024,payement,MA331,Lubbock,wallet,1,highamount
+TRAN1443,USERID210,79503,05-01-2024,transfer,MA332,Ciudad Bolívar,credit,1,highamount
+TRAN1444,USERID211,80312,05-01-2024,withdrawal,MA333,Carreira,wallet,1,highamount
+TRAN1445,USERID212,51047,05-01-2024,transfer,MA334,Sidaraja,wallet,1,highamount
+TRAN1446,USERID213,95664,05-01-2024,withdrawal,MA335,Pira,wallet,1,highamount
+TRAN1447,USERID214,23199,05-01-2024,payement,MA336,Gongju,banktranfer,3,N/A
+TRAN1448,USERID215,81015,05-01-2024,withdrawal,MA337,Itagibá,wallet,1,highamount
+TRAN1449,USERID216,41913,05-01-2024,withdrawal,MA338,not data,wallet,2,unknow location
+TRAN1450,USERID217,17589,05-01-2024,withdrawal,MA339,Tanuma,credit,3,N/A
+TRAN1451,USERID218,54738,05-01-2024,transfer,MA340,Saint-Bruno,banktranfer,1,highamount
+TRAN1452,USERID219,15669,05-01-2024,payement,MA341,Yehud,wallet,3,N/A
+TRAN1453,USERID220,43341,05-01-2024,transfer,MA342,not data,credit,2,unknow location
+TRAN1454,USERID221,15331,05-01-2024,payement,MA343,Baoluan,banktranfer,3,N/A
+TRAN1455,USERID222,39022,05-01-2024,payement,MA344,not data,wallet,2,unknow location
+TRAN1456,USERID223,76619,05-01-2024,payement,MA345,Severnoye,credit,1,highamount
+TRAN1457,USERID224,49735,05-01-2024,transfer,MA346,not data,wallet,2,unknow location
+TRAN1458,USERID225,18772,05-01-2024,payement,MA347,Washington,wallet,3,N/A
+TRAN1459,USERID226,63664,05-01-2024,payement,MA348,Songon,credit,1,highamount
+TRAN1460,USERID227,20487,05-01-2024,payement,MA349,Catache,credit,3,N/A
+TRAN1461,USERID228,50369,05-01-2024,payement,MA350,Xiaoshiqiao,banktranfer,1,highamount
+TRAN1462,USERID229,92031,05-01-2024,payement,MA351,La Courneuve,banktranfer,1,highamount
+TRAN1463,USERID230,24280,05-01-2024,transfer,MA352,Semiluki,credit,3,N/A
+TRAN1464,USERID231,52758,05-01-2024,withdrawal,MA353,Varoška Rijeka,banktranfer,1,highamount
+TRAN1465,USERID232,99402,05-01-2024,withdrawal,MA354,Cergy-Pontoise,credit,1,highamount
+TRAN1466,USERID233,71964,05-01-2024,payement,MA355,Tebara,credit,1,highamount
+TRAN1467,USERID234,70892,05-01-2024,payement,MA356,Seoam,wallet,1,highamount
+TRAN1468,USERID235,65403,05-01-2024,transfer,MA357,Wucun,banktranfer,1,highamount
+TRAN1469,USERID236,31183,05-01-2024,payement,MA358,not data,credit,2,unknow location
+TRAN1470,USERID237,29107,05-01-2024,transfer,MA359,Batanamang,wallet,3,N/A
+TRAN1471,USERID238,48253,05-01-2024,withdrawal,MA360,not data,credit,2,unknow location
+TRAN1472,USERID239,60684,05-01-2024,withdrawal,MA361,Cipicung,credit,1,highamount
+TRAN1473,USERID240,92442,05-01-2024,transfer,MA362,Krasnoshchekovo,wallet,1,highamount
+TRAN1474,USERID241,68035,05-01-2024,transfer,MA363,Santa Cruz del Sur,banktranfer,1,highamount
+TRAN1475,USERID242,95323,05-01-2024,transfer,MA364,Banyupoh,banktranfer,1,highamount
+TRAN1476,USERID243,24634,05-01-2024,withdrawal,MA365,Speightstown,banktranfer,3,N/A
+TRAN1477,USERID244,13163,05-01-2024,withdrawal,MA366,Verkhniy Dashkesan,credit,3,N/A
+TRAN1478,USERID245,60130,05-01-2024,withdrawal,MA367,Pura,credit,1,highamount
+TRAN1479,USERID246,22285,05-01-2024,transfer,MA368,San Pedro Apartado,banktranfer,3,N/A
+TRAN1480,USERID247,74328,05-01-2024,payement,MA369,Mineralni Bani,wallet,1,highamount
+TRAN1481,USERID248,74037,05-01-2024,payement,MA370,Ermidas do Sado,banktranfer,1,highamount
+TRAN1482,USERID249,23089,05-01-2024,payement,MA371,San Jose,banktranfer,3,N/A
+TRAN1483,USERID250,68457,05-01-2024,withdrawal,MA372,Marau,credit,1,highamount
+TRAN1484,USERID251,96825,05-01-2024,transfer,MA373,Saint-Dié-des-Vosges,credit,1,highamount
+TRAN1485,USERID252,62890,05-01-2024,withdrawal,MA374,Jorok Dalam,wallet,1,highamount
+TRAN1486,USERID253,51830,05-01-2024,withdrawal,MA375,Vitarte,wallet,1,highamount
+TRAN1487,USERID254,10709,05-01-2024,payement,MA376,Huazhuang,wallet,3,N/A
+TRAN1488,USERID255,17575,05-01-2024,withdrawal,MA377,Singaraja,banktranfer,3,N/A
+TRAN1489,USERID256,75281,05-01-2024,withdrawal,MA378,Saiki,banktranfer,1,highamount
+TRAN1490,USERID257,29967,05-01-2024,withdrawal,MA379,Yangying,credit,3,N/A
+TRAN1491,USERID258,46174,05-01-2024,withdrawal,MA380,not data,credit,2,unknow location
+TRAN1492,USERID259,51696,05-01-2024,payement,MA381,Labao,credit,1,highamount
+TRAN1493,USERID260,84947,05-01-2024,transfer,MA382,Nakamura,credit,1,highamount
+TRAN1494,USERID261,34802,05-01-2024,transfer,MA383,not data,wallet,2,unknow location
+TRAN1495,USERID262,57697,05-01-2024,withdrawal,MA384,Saryaghash,banktranfer,1,highamount
+TRAN1496,USERID263,57232,05-01-2024,transfer,MA385,Mendeleyevsk,wallet,1,highamount
+TRAN1497,USERID264,68617,05-01-2024,withdrawal,MA386,Fukou,wallet,1,highamount
+TRAN1498,USERID265,77894,05-01-2024,transfer,MA387,Dongpu,credit,1,highamount
+TRAN1499,USERID266,37372,05-01-2024,withdrawal,MA388,not data,wallet,2,unknow location
+TRAN1500,USERID267,19448,05-01-2024,withdrawal,MA389,Altamira,wallet,3,N/A
+TRAN1501,USERID268,55916,05-01-2024,withdrawal,MA390,Yushang,wallet,1,highamount
+TRAN1502,USERID269,91984,05-01-2024,transfer,MA391,Ciranca Satu,wallet,1,highamount
+TRAN1503,USERID270,50010,05-01-2024,transfer,MA392,D?lband?n,wallet,1,highamount
+TRAN1504,USERID271,96277,05-01-2024,payement,MA393,Köping,banktranfer,1,highamount
+TRAN1505,USERID272,10793,05-01-2024,withdrawal,MA394,São Pedro,banktranfer,3,N/A
+TRAN1506,USERID273,12440,05-01-2024,withdrawal,MA395,Lille,credit,3,N/A
+TRAN1507,USERID274,10647,05-01-2024,payement,MA396,Dabachang,wallet,3,N/A
+TRAN1508,USERID275,56210,05-01-2024,withdrawal,MA397,Mranggen,banktranfer,1,highamount
+TRAN1509,USERID276,97133,05-01-2024,transfer,MA398,Ashford,wallet,1,highamount
+TRAN1510,USERID277,92155,05-01-2024,transfer,MA399,?zu,wallet,1,highamount
+TRAN1511,USERID278,54068,05-01-2024,payement,MA400,Jingmen,banktranfer,1,highamount
+TRAN1512,USERID279,96482,05-01-2024,transfer,MA401,Ždánice,banktranfer,1,highamount
+TRAN1513,USERID280,57207,05-01-2024,payement,MA402,Byst?ice nad Pernštejnem,credit,1,highamount
+TRAN1514,USERID281,42447,05-01-2024,transfer,MA403,not data,banktranfer,2,unknow location
+TRAN1515,USERID282,36944,05-01-2024,transfer,MA404,not data,banktranfer,2,unknow location
+TRAN1516,USERID283,33063,05-01-2024,transfer,MA405,not data,wallet,2,unknow location
+TRAN1517,USERID284,44959,05-01-2024,withdrawal,MA406,not data,credit,2,unknow location
+TRAN1518,USERID285,63006,05-01-2024,transfer,MA407,Ngurenrejo,credit,1,highamount
+TRAN1519,USERID286,85095,05-01-2024,payement,MA408,Telengsari,banktranfer,1,highamount
+TRAN1520,USERID287,81285,05-01-2024,transfer,MA409,Bryukhovychi,wallet,1,highamount
+TRAN1521,USERID288,12218,05-01-2024,transfer,MA410,Wuyang,credit,3,N/A
+TRAN1522,USERID289,36443,05-01-2024,transfer,MA411,not data,wallet,2,unknow location
+TRAN1523,USERID290,88318,05-01-2024,withdrawal,MA412,W?oszakowice,wallet,1,highamount
+TRAN1524,USERID291,48990,05-01-2024,withdrawal,MA413,not data,banktranfer,2,unknow location
+TRAN1525,USERID292,51298,05-01-2024,transfer,MA414,Haz-Zebbug,banktranfer,1,highamount
+TRAN1526,USERID293,33755,05-01-2024,withdrawal,MA415,not data,wallet,2,unknow location
+TRAN1527,USERID294,47196,05-01-2024,transfer,MA416,not data,credit,2,unknow location
+TRAN1528,USERID295,69754,05-01-2024,withdrawal,MA417,Tours,banktranfer,1,highamount
+TRAN1529,USERID296,33930,05-01-2024,payement,MA418,not data,wallet,2,unknow location
+TRAN1530,USERID297,54856,05-01-2024,payement,MA419,Pyin Oo Lwin,wallet,1,highamount
+TRAN1531,USERID298,34207,05-01-2024,transfer,MA420,not data,credit,2,unknow location
+TRAN1532,USERID299,29437,05-01-2024,withdrawal,MA421,Shalamz?r,wallet,3,N/A
+TRAN1533,USERID300,85464,05-01-2024,transfer,MA422,Lamego,wallet,1,highamount
+TRAN1534,USERID301,14219,05-01-2024,payement,MA423,Yonghe,credit,3,N/A
+TRAN1535,USERID302,45301,05-01-2024,withdrawal,MA424,not data,credit,2,unknow location
+TRAN1536,USERID303,78711,05-01-2024,withdrawal,MA425,Makueni,banktranfer,1,highamount
+TRAN1537,USERID304,19179,05-01-2024,payement,MA426,Paw?owiczki,credit,3,N/A
+TRAN1538,USERID305,63729,05-01-2024,withdrawal,MA427,Rossosh’,wallet,1,highamount
+TRAN1539,USERID306,30235,05-01-2024,withdrawal,MA428,not data,wallet,2,unknow location
+TRAN1540,USERID307,85776,05-01-2024,transfer,MA429,Tripoli,wallet,1,highamount
+TRAN1541,USERID308,46613,05-01-2024,payement,MA430,not data,wallet,2,unknow location
+TRAN1542,USERID309,36560,05-01-2024,transfer,MA431,not data,credit,2,unknow location
+TRAN1543,USERID310,97981,05-01-2024,payement,MA432,Jiaxing,wallet,1,highamount
+TRAN1544,USERID311,41042,05-01-2024,payement,MA433,not data,credit,2,unknow location
+TRAN1545,USERID312,16180,05-01-2024,payement,MA434,Ganhe,banktranfer,3,N/A
+TRAN1546,USERID313,64871,05-01-2024,transfer,MA435,Cabriz,banktranfer,1,highamount
+TRAN1547,USERID314,52757,05-01-2024,payement,MA436,São Sepé,banktranfer,1,highamount
+TRAN1548,USERID315,21864,05-01-2024,payement,MA437,Otradnoye,wallet,3,N/A
+TRAN1549,USERID316,23727,05-01-2024,withdrawal,MA438,Ureshino,wallet,3,N/A
+TRAN1550,USERID317,46433,05-01-2024,transfer,MA439,not data,banktranfer,2,unknow location
+TRAN1551,USERID318,23492,05-01-2024,withdrawal,MA440,Alegrete,banktranfer,3,N/A
+TRAN1552,USERID319,66000,05-01-2024,transfer,MA441,Sumberbaru,wallet,1,highamount
+TRAN1553,USERID320,27498,05-01-2024,transfer,MA442,Biñan,banktranfer,3,N/A
+TRAN1554,USERID321,51481,06-01-2024,withdrawal,MA443,Villarrica,banktranfer,1,highamount
+TRAN1555,USERID322,38401,06-01-2024,payement,MA444,not data,banktranfer,2,unknow location
+TRAN1556,USERID323,26453,06-01-2024,withdrawal,MA445,Reserva,banktranfer,3,N/A
+TRAN1557,USERID324,82307,06-01-2024,payement,MA446,Madison,wallet,1,highamount
+TRAN1558,USERID325,82445,06-01-2024,payement,MA447,Épinal,credit,1,highamount
+TRAN1559,USERID326,12408,06-01-2024,transfer,MA448,Ciechocin,banktranfer,3,N/A
+TRAN1560,USERID327,44555,06-01-2024,transfer,MA449,not data,credit,2,unknow location
+TRAN1561,USERID328,49548,06-01-2024,payement,MA450,not data,banktranfer,2,unknow location
+TRAN1562,USERID329,54019,06-01-2024,transfer,MA451,Youfang,wallet,1,highamount
+TRAN1563,USERID330,38137,06-01-2024,payement,MA452,not data,credit,2,unknow location
+TRAN1564,USERID331,56959,06-01-2024,transfer,MA453,Kuantan,wallet,1,highamount
+TRAN1565,USERID332,98342,06-01-2024,withdrawal,MA454,Calle Blancos,credit,1,highamount
+TRAN1566,USERID333,47040,06-01-2024,payement,MA455,not data,wallet,2,unknow location
+TRAN1567,USERID334,79552,06-01-2024,payement,MA456,Muqui,wallet,1,highamount
+TRAN1568,USERID335,62613,06-01-2024,transfer,MA457,Sorang,credit,1,highamount
+TRAN1569,USERID336,50024,06-01-2024,payement,MA458,Sainte-Anne-des-Plaines,wallet,1,highamount
+TRAN1570,USERID337,12703,06-01-2024,transfer,MA459,Pimbalayan,banktranfer,3,N/A
+TRAN1571,USERID338,98489,06-01-2024,payement,MA460,Kleszczewo,wallet,1,highamount
+TRAN1572,USERID339,40061,06-01-2024,transfer,MA461,not data,credit,2,unknow location
+TRAN1573,USERID340,21937,06-01-2024,payement,MA462,Bayanbulag,banktranfer,3,N/A
+TRAN1574,USERID341,11554,06-01-2024,transfer,MA463,Semey,wallet,3,N/A
+TRAN1575,USERID342,82336,06-01-2024,payement,MA464,Timashëvsk,banktranfer,1,highamount
+TRAN1576,USERID343,53571,06-01-2024,transfer,MA465,Xinghua,credit,1,highamount
+TRAN1577,USERID344,10852,06-01-2024,transfer,MA466,Xinghua,credit,3,N/A
+TRAN1578,USERID345,37763,06-01-2024,withdrawal,MA467,not data,credit,2,unknow location
+TRAN1579,USERID346,44158,06-01-2024,payement,MA468,not data,wallet,2,unknow location
+TRAN1580,USERID347,69097,06-01-2024,withdrawal,MA469,East Angus,credit,1,highamount
+TRAN1581,USERID348,63714,06-01-2024,payement,MA470,Neos Voutzás,credit,1,highamount
+TRAN1582,USERID349,70180,06-01-2024,payement,MA471,Machinda,wallet,1,highamount
+TRAN1583,USERID350,64652,06-01-2024,transfer,MA472,????????,credit,1,highamount
+TRAN1584,USERID351,37899,06-01-2024,withdrawal,MA473,not data,banktranfer,2,unknow location
+TRAN1585,USERID352,64199,06-01-2024,withdrawal,MA474,Karakabak,wallet,1,highamount
+TRAN1586,USERID353,53095,06-01-2024,payement,MA475,Kadukandel,wallet,1,highamount
+TRAN1587,USERID354,79768,06-01-2024,payement,MA476,Qingquan,credit,1,highamount
+TRAN1588,USERID355,22992,06-01-2024,payement,MA477,San Francisco,wallet,3,N/A
+TRAN1589,USERID356,59816,06-01-2024,transfer,MA478,Ginir,banktranfer,1,highamount
+TRAN1590,USERID357,36002,06-01-2024,transfer,MA479,not data,credit,2,unknow location
+TRAN1591,USERID358,60200,06-01-2024,payement,MA480,Bauang,wallet,1,highamount
+TRAN1592,USERID359,57836,06-01-2024,transfer,MA481,Otjiwarongo,credit,1,highamount
+TRAN1593,USERID360,44785,06-01-2024,withdrawal,MA482,not data,credit,2,unknow location
+TRAN1594,USERID361,82641,06-01-2024,transfer,MA483,Asempapak,credit,1,highamount
+TRAN1595,USERID362,57883,06-01-2024,transfer,MA484,Tombatu,credit,1,highamount
+TRAN1596,USERID363,58378,06-01-2024,payement,MA485,Lomme,credit,1,highamount
+TRAN1597,USERID364,85073,06-01-2024,withdrawal,MA486,Sundbyberg,credit,1,highamount
+TRAN1598,USERID365,49584,06-01-2024,payement,MA487,not data,banktranfer,2,unknow location
+TRAN1599,USERID366,67541,06-01-2024,transfer,MA488,Ambohitrolomahitsy,banktranfer,1,highamount
+TRAN1600,USERID367,14864,06-01-2024,payement,MA489,Bandundu,wallet,3,N/A
+TRAN1601,USERID368,70850,06-01-2024,transfer,MA490,Dzvinogrud,wallet,1,highamount
+TRAN1602,USERID369,78298,06-01-2024,payement,MA491,Belén,wallet,1,highamount
+TRAN1603,USERID370,12898,06-01-2024,payement,MA492,Wilczyce,banktranfer,3,N/A
+TRAN1604,USERID371,45510,06-01-2024,transfer,MA493,not data,credit,2,unknow location
+TRAN1605,USERID372,37963,06-01-2024,transfer,MA494,not data,credit,2,unknow location
+TRAN1606,USERID373,41145,06-01-2024,payement,MA495,not data,wallet,2,unknow location
+TRAN1607,USERID374,55413,06-01-2024,transfer,MA496,Mamuša,credit,1,highamount
+TRAN1608,USERID375,53770,06-01-2024,payement,MA497,Korenëvo,credit,1,highamount
+TRAN1609,USERID376,63795,06-01-2024,withdrawal,MA498,São Mateus,credit,1,highamount
+TRAN1610,USERID377,17806,06-01-2024,payement,MA499,Shunling,wallet,3,N/A
+TRAN1611,USERID378,31216,06-01-2024,withdrawal,MA500,not data,wallet,2,unknow location
+TRAN1612,USERID379,50787,06-01-2024,transfer,MA501,Gouveia,credit,1,highamount
+TRAN1613,USERID380,75480,06-01-2024,payement,MA502,Panambi,wallet,1,highamount
+TRAN1614,USERID381,30452,06-01-2024,transfer,MA503,not data,banktranfer,2,unknow location
+TRAN1615,USERID382,88436,06-01-2024,transfer,MA504,Embu,banktranfer,1,highamount
+TRAN1616,USERID383,47880,06-01-2024,payement,MA505,not data,credit,2,unknow location
+TRAN1617,USERID384,91166,06-01-2024,withdrawal,MA506,Tongyuanpu,credit,1,highamount
+TRAN1618,USERID385,71521,06-01-2024,withdrawal,MA507,Mozdok,credit,1,highamount
+TRAN1619,USERID386,81348,06-01-2024,payement,MA508,Guajiasi,credit,1,highamount
+TRAN1620,USERID387,13750,06-01-2024,transfer,MA509,Seixo,banktranfer,3,N/A
+TRAN1621,USERID388,20340,06-01-2024,payement,MA510,Cabatuan,banktranfer,3,N/A
+TRAN1622,USERID389,88430,06-01-2024,payement,MA511,Teresa,banktranfer,1,highamount
+TRAN1623,USERID390,24534,06-01-2024,withdrawal,MA512,Min?f,wallet,3,N/A
+TRAN1624,USERID391,77283,06-01-2024,withdrawal,MA513,Beregovoy,wallet,1,highamount
+TRAN1625,USERID392,77895,06-01-2024,transfer,MA514,Bakersfield,credit,1,highamount
+TRAN1626,USERID393,48126,06-01-2024,transfer,MA515,not data,wallet,2,unknow location
+TRAN1627,USERID394,26975,06-01-2024,payement,MA516,Partesh,credit,3,N/A
+TRAN1628,USERID395,15389,06-01-2024,transfer,MA517,Na Thawi,credit,3,N/A
+TRAN1629,USERID396,89195,06-01-2024,payement,MA518,Trollhättan,banktranfer,1,highamount
+TRAN1630,USERID397,27990,06-01-2024,withdrawal,MA519,Lajkovac,credit,3,N/A
+TRAN1631,USERID398,91669,06-01-2024,payement,MA520,Consuelo,wallet,1,highamount
+TRAN1632,USERID399,87440,06-01-2024,transfer,MA521,Yanshan,wallet,1,highamount
+TRAN1633,USERID400,44533,06-01-2024,withdrawal,MA522,not data,credit,2,unknow location
+TRAN1634,USERID401,49159,06-01-2024,transfer,MA523,not data,wallet,2,unknow location
+TRAN1635,USERID402,58961,06-01-2024,payement,MA524,Gayam,wallet,1,highamount
+TRAN1636,USERID403,89916,06-01-2024,transfer,MA525,Putrajaya,wallet,1,highamount
+TRAN1637,USERID404,26852,06-01-2024,payement,MA526,Filiátes,credit,3,N/A
+TRAN1638,USERID405,23256,06-01-2024,withdrawal,MA527,Harstad,wallet,3,N/A
+TRAN1639,USERID406,67713,06-01-2024,payement,MA528,Baoping,wallet,1,highamount
+TRAN1640,USERID407,49299,06-01-2024,withdrawal,MA529,not data,credit,2,unknow location
+TRAN1641,USERID408,13794,06-01-2024,payement,MA530,Zhuting,wallet,3,N/A
+TRAN1642,USERID409,18923,06-01-2024,transfer,MA531,Étampes,credit,3,N/A
+TRAN1643,USERID410,27668,06-01-2024,payement,MA532,Nicolet,banktranfer,3,N/A
+TRAN1644,USERID411,68234,06-01-2024,withdrawal,MA533,Desa Kertasari,banktranfer,1,highamount
+TRAN1645,USERID412,68435,06-01-2024,withdrawal,MA534,Kal?leh,banktranfer,1,highamount
+TRAN1646,USERID413,32803,06-01-2024,payement,MA535,not data,wallet,2,unknow location
+TRAN1647,USERID414,12854,06-01-2024,withdrawal,MA536,Berezne,banktranfer,3,N/A
+TRAN1648,USERID415,16299,06-01-2024,withdrawal,MA537,Samparna,wallet,3,N/A
+TRAN1649,USERID416,40455,06-01-2024,payement,MA538,not data,wallet,2,unknow location
+TRAN1650,USERID417,13116,06-01-2024,withdrawal,MA539,San Lorenzo,wallet,3,N/A
+TRAN1651,USERID418,95542,06-01-2024,transfer,MA540,Valuyki,wallet,1,highamount
+TRAN1652,USERID419,96100,06-01-2024,transfer,MA541,A? ?anamayn,wallet,1,highamount
+TRAN1653,USERID420,50260,06-01-2024,payement,MA542,Guadalupe Victoria,wallet,1,highamount
+TRAN1654,USERID421,46568,06-01-2024,transfer,MA543,not data,wallet,2,unknow location
+TRAN1655,USERID422,45622,06-01-2024,payement,MA544,not data,wallet,2,unknow location
+TRAN1656,USERID423,14827,06-01-2024,withdrawal,MA545,Nuwaybi‘a,wallet,3,N/A
+TRAN1657,USERID424,28880,06-01-2024,withdrawal,MA546,Kunyang,wallet,3,N/A
+TRAN1658,USERID425,76118,06-01-2024,payement,MA547,Qianzhou,wallet,1,highamount
+TRAN1659,USERID426,77067,06-01-2024,transfer,MA548,Zgornje Pirni?e,wallet,1,highamount
+TRAN1660,USERID427,77722,06-01-2024,withdrawal,MA549,Wiri,wallet,1,highamount
+TRAN1661,USERID428,23251,06-01-2024,transfer,MA550,Pomiechówek,credit,3,N/A
+TRAN1662,USERID429,81221,06-01-2024,transfer,MA551,Arshaluys,wallet,1,highamount
+TRAN1663,USERID430,26696,06-01-2024,withdrawal,MA552,Austin,wallet,3,N/A
+TRAN1664,USERID431,13060,06-01-2024,withdrawal,MA553,Liuxia,credit,3,N/A
+TRAN1665,USERID432,44078,06-01-2024,payement,MA554,not data,banktranfer,2,unknow location
+TRAN1666,USERID433,35101,06-01-2024,transfer,MA555,not data,credit,2,unknow location
+TRAN1667,USERID434,98207,06-01-2024,transfer,MA556,Bagratashen,wallet,1,highamount
+TRAN1668,USERID435,97736,06-01-2024,transfer,MA557,Malian,wallet,1,highamount
+TRAN1669,USERID436,35558,06-01-2024,withdrawal,MA558,not data,wallet,2,unknow location
+TRAN1670,USERID437,93461,06-01-2024,payement,MA559,Nank?na S?hib,credit,1,highamount
+TRAN1671,USERID438,52967,06-01-2024,withdrawal,MA560,Blerim,wallet,1,highamount
+TRAN1672,USERID439,84151,06-01-2024,transfer,MA561,Jönköping,credit,1,highamount
+TRAN1673,USERID440,92050,06-01-2024,transfer,MA562,Sonsorol Village,credit,1,highamount
+TRAN1674,USERID441,24469,06-01-2024,withdrawal,MA563,Sidomekar,credit,3,N/A
+TRAN1675,USERID442,13830,06-01-2024,transfer,MA564,Frederiksberg,credit,3,N/A
+TRAN1676,USERID443,71213,06-01-2024,payement,MA565,Vasyl'evsky Ostrov,wallet,1,highamount
+TRAN1677,USERID444,44801,06-01-2024,payement,MA566,not data,wallet,2,unknow location
+TRAN1678,USERID445,99530,06-01-2024,withdrawal,MA567,Dresden,wallet,1,highamount
+TRAN1679,USERID446,72880,06-01-2024,withdrawal,MA568,Bell Ville,credit,1,highamount
+TRAN1680,USERID447,77614,06-01-2024,transfer,MA569,Ghauspur,wallet,1,highamount
+TRAN1681,USERID448,93481,06-01-2024,transfer,MA570,Sukmoilang,wallet,1,highamount
+TRAN1682,USERID449,41496,06-01-2024,withdrawal,MA571,not data,wallet,2,unknow location
+TRAN1683,USERID450,59368,06-01-2024,transfer,MA572,Esquel,banktranfer,1,highamount
+TRAN1684,USERID451,44170,06-01-2024,payement,MA573,not data,banktranfer,2,unknow location
+TRAN1685,USERID452,33221,06-01-2024,withdrawal,MA574,not data,wallet,2,unknow location
+TRAN1686,USERID453,67117,06-01-2024,withdrawal,MA575,Krasnyy Yar,credit,1,highamount
+TRAN1687,USERID454,17312,06-01-2024,withdrawal,MA576,Neochóri,banktranfer,3,N/A
+TRAN1688,USERID455,51936,06-01-2024,payement,MA577,Ljukovo,wallet,1,highamount
+TRAN1689,USERID456,37720,06-01-2024,transfer,MA578,not data,wallet,2,unknow location
+TRAN1690,USERID457,75339,06-01-2024,withdrawal,MA579,Przybyszówka,credit,1,highamount
+TRAN1691,USERID458,42988,06-01-2024,withdrawal,MA580,not data,credit,2,unknow location
+TRAN1692,USERID459,18714,06-01-2024,transfer,MA581,Bakalang,banktranfer,3,N/A
+TRAN1693,USERID460,68482,06-01-2024,withdrawal,MA582,Douala,wallet,1,highamount
+TRAN1694,USERID461,51694,06-01-2024,withdrawal,MA583,Dagang,wallet,1,highamount
+TRAN1695,USERID462,86702,06-01-2024,payement,MA584,Sanshui,credit,1,highamount
+TRAN1696,USERID463,43835,06-01-2024,transfer,MA585,not data,credit,2,unknow location
+TRAN1697,USERID464,72834,06-01-2024,transfer,MA586,Sanjia,banktranfer,1,highamount
+TRAN1698,USERID465,47503,06-01-2024,withdrawal,MA587,not data,wallet,2,unknow location
+TRAN1699,USERID466,30835,06-01-2024,withdrawal,MA588,not data,banktranfer,2,unknow location
+TRAN1700,USERID467,57391,06-01-2024,transfer,MA589,La Palma,wallet,1,highamount
+TRAN1701,USERID468,29774,06-01-2024,payement,MA590,North Bay,credit,3,N/A
+TRAN1702,USERID469,15109,06-01-2024,payement,MA591,Yangcheng,wallet,3,N/A
+TRAN1703,USERID470,25070,06-01-2024,withdrawal,MA592,Tidaholm,wallet,3,N/A
+TRAN1704,USERID471,32691,06-01-2024,payement,MA593,not data,banktranfer,2,unknow location
+TRAN1705,USERID472,97484,06-01-2024,withdrawal,MA594,Timmins,banktranfer,1,highamount
+TRAN1706,USERID473,19423,06-01-2024,withdrawal,MA595,Vale das Mós,banktranfer,3,N/A
+TRAN1707,USERID474,42563,06-01-2024,withdrawal,MA596,not data,banktranfer,2,unknow location
+TRAN1708,USERID475,13867,06-01-2024,transfer,MA597,Palmas,wallet,3,N/A
+TRAN1709,USERID476,47757,06-01-2024,withdrawal,MA598,not data,banktranfer,2,unknow location
+TRAN1710,USERID477,59631,06-01-2024,payement,MA599,Wuku,credit,1,highamount
+TRAN1711,USERID478,44459,06-01-2024,withdrawal,MA600,not data,credit,2,unknow location
+TRAN1712,USERID479,43822,06-01-2024,payement,MA601,not data,wallet,2,unknow location
+TRAN1713,USERID480,30915,06-01-2024,transfer,MA602,not data,credit,2,unknow location
+TRAN1714,USERID481,48514,06-01-2024,withdrawal,MA603,not data,credit,2,unknow location
+TRAN1715,USERID482,12032,06-01-2024,withdrawal,MA604,Fuxin,credit,3,N/A
+TRAN1716,USERID483,61660,06-01-2024,transfer,MA605,Longchi,wallet,1,highamount
+TRAN1717,USERID484,20023,06-01-2024,withdrawal,MA606,Taibai,wallet,3,N/A
+TRAN1718,USERID485,94979,06-01-2024,withdrawal,MA607,Gualeguay,credit,1,highamount
+TRAN1719,USERID486,46425,06-01-2024,withdrawal,MA608,not data,credit,2,unknow location
+TRAN1720,USERID487,43790,06-01-2024,withdrawal,MA609,not data,wallet,2,unknow location
+TRAN1721,USERID488,48801,06-01-2024,withdrawal,MA610,not data,credit,2,unknow location
+TRAN1722,USERID489,32445,06-01-2024,withdrawal,MA611,not data,wallet,2,unknow location
+TRAN1723,USERID490,54142,06-01-2024,withdrawal,MA612,Lashio,banktranfer,1,highamount
+TRAN1724,USERID491,10319,06-01-2024,withdrawal,MA613,Bang Lamung,credit,3,N/A
+TRAN1725,USERID492,66692,06-01-2024,transfer,MA614,Huangwei,banktranfer,1,highamount
+TRAN1726,USERID493,13892,06-01-2024,withdrawal,MA615,Pasongsongan,banktranfer,3,N/A
+TRAN1727,USERID494,17471,06-01-2024,withdrawal,MA616,Mar’’ina Horka,credit,3,N/A
+TRAN1728,USERID495,17298,06-01-2024,transfer,MA617,Batagay-Alyta,wallet,3,N/A
+TRAN1729,USERID496,29830,06-01-2024,transfer,MA618,Corral,credit,3,N/A
+TRAN1730,USERID497,65798,06-01-2024,transfer,MA619,Heby,credit,1,highamount
+TRAN1731,USERID498,58347,06-01-2024,withdrawal,MA620,Aucallama,banktranfer,1,highamount
+TRAN1732,USERID499,39142,06-01-2024,payement,MA621,not data,wallet,2,unknow location
+TRAN1733,USERID500,20352,06-01-2024,withdrawal,MA622,Tagbilaran City,credit,3,N/A
+TRAN1734,USERID501,25755,06-01-2024,payement,MA623,Margen,wallet,3,N/A
+TRAN1735,USERID502,96371,06-01-2024,payement,MA624,Pianbai,banktranfer,1,highamount
+TRAN1736,USERID503,37896,06-01-2024,withdrawal,MA625,not data,wallet,2,unknow location
+TRAN1737,USERID504,89523,06-01-2024,transfer,MA626,Nanmen,credit,1,highamount
+TRAN1738,USERID505,60299,06-01-2024,payement,MA627,Cruzília,credit,1,highamount
+TRAN1739,USERID506,69947,07-01-2024,payement,MA628,Shinyanga,credit,1,highamount
+TRAN1740,USERID507,80466,07-01-2024,transfer,MA629,Gremyachinsk,banktranfer,1,highamount
+TRAN1741,USERID508,83599,07-01-2024,transfer,MA630,Guatimozín,wallet,1,highamount
+TRAN1742,USERID509,78043,07-01-2024,payement,MA631,Tangzhuang,wallet,1,highamount
+TRAN1743,USERID510,42619,07-01-2024,withdrawal,MA632,not data,wallet,2,unknow location
+TRAN1744,USERID511,34817,07-01-2024,withdrawal,MA633,not data,wallet,2,unknow location
+TRAN1745,USERID512,54045,07-01-2024,payement,MA634,Xike,wallet,1,highamount
+TRAN1746,USERID513,87885,07-01-2024,transfer,MA635,Omigawa,banktranfer,1,highamount
+TRAN1747,USERID514,99856,07-01-2024,withdrawal,MA636,Ipirá,credit,1,highamount
+TRAN1748,USERID515,30649,07-01-2024,payement,MA637,not data,credit,2,unknow location
+TRAN1749,USERID516,34661,07-01-2024,payement,MA638,not data,wallet,2,unknow location
+TRAN1750,USERID517,94273,07-01-2024,payement,MA639,Casimiro de Abreu,banktranfer,1,highamount
+TRAN1751,USERID518,92110,07-01-2024,transfer,MA640,Cabiguan,banktranfer,1,highamount
+TRAN1752,USERID519,52212,07-01-2024,withdrawal,MA641,Sucre,banktranfer,1,highamount
+TRAN1753,USERID520,72581,07-01-2024,withdrawal,MA642,Sentieiras,credit,1,highamount
+TRAN1754,USERID521,61963,07-01-2024,payement,MA643,Cisagu,wallet,1,highamount
+TRAN1755,USERID522,98695,07-01-2024,payement,MA644,Placencia,wallet,1,highamount
+TRAN1756,USERID523,67369,07-01-2024,transfer,MA645,Haiyanmiao,wallet,1,highamount
+TRAN1757,USERID524,15322,07-01-2024,withdrawal,MA646,Maumere,credit,3,N/A
+TRAN1758,USERID525,92288,07-01-2024,payement,MA647,Kushar,wallet,1,highamount
+TRAN1759,USERID526,86418,07-01-2024,transfer,MA648,Tampa,banktranfer,1,highamount
+TRAN1760,USERID527,29980,07-01-2024,payement,MA649,Anfeng,banktranfer,3,N/A
+TRAN1761,USERID528,92611,07-01-2024,withdrawal,MA650,Bergvliet,banktranfer,1,highamount
+TRAN1762,USERID529,19892,07-01-2024,withdrawal,MA651,Staten Island,wallet,3,N/A
+TRAN1763,USERID530,98108,07-01-2024,payement,MA652,Llipa,banktranfer,1,highamount
+TRAN1764,USERID531,13215,07-01-2024,transfer,MA653,Paris 20,wallet,3,N/A
+TRAN1765,USERID532,90818,07-01-2024,payement,MA654,Tangkolo,wallet,1,highamount
+TRAN1766,USERID533,43644,07-01-2024,payement,MA655,not data,credit,2,unknow location
+TRAN1767,USERID534,41424,07-01-2024,transfer,MA656,not data,credit,2,unknow location
+TRAN1768,USERID535,25484,07-01-2024,withdrawal,MA657,Bous,credit,3,N/A
+TRAN1769,USERID536,67402,07-01-2024,payement,MA658,Cela,wallet,1,highamount
+TRAN1770,USERID537,64684,07-01-2024,transfer,MA659,Wushan,wallet,1,highamount
+TRAN1771,USERID538,73018,07-01-2024,transfer,MA660,Nogueira,credit,1,highamount
+TRAN1772,USERID539,75836,07-01-2024,payement,MA661,Bulgan,banktranfer,1,highamount
+TRAN1773,USERID540,64779,07-01-2024,payement,MA662,Wyszki,credit,1,highamount
+TRAN1774,USERID541,11863,07-01-2024,transfer,MA663,Winter Haven,credit,3,N/A
+TRAN1775,USERID542,36799,07-01-2024,payement,MA664,not data,banktranfer,2,unknow location
+TRAN1776,USERID543,60947,07-01-2024,withdrawal,MA665,Punata,wallet,1,highamount
+TRAN1777,USERID544,69929,07-01-2024,withdrawal,MA666,Pindi Gheb,wallet,1,highamount
+TRAN1778,USERID545,75631,07-01-2024,payement,MA667,Ciasna,banktranfer,1,highamount
+TRAN1779,USERID546,43713,07-01-2024,transfer,MA668,not data,credit,2,unknow location
+TRAN1780,USERID547,42978,07-01-2024,payement,MA669,not data,banktranfer,2,unknow location
+TRAN1781,USERID548,72689,07-01-2024,payement,MA670,Pelaya,credit,1,highamount
+TRAN1782,USERID549,18399,07-01-2024,withdrawal,MA671,Merke,credit,3,N/A
+TRAN1783,USERID550,74442,07-01-2024,payement,MA672,Odeleite,banktranfer,1,highamount
+TRAN1784,USERID551,87798,07-01-2024,payement,MA673,Colón,wallet,1,highamount
+TRAN1785,USERID552,28836,07-01-2024,transfer,MA674,Hirosaki,wallet,3,N/A
+TRAN1786,USERID553,43472,07-01-2024,withdrawal,MA675,not data,credit,2,unknow location
+TRAN1787,USERID554,90141,07-01-2024,payement,MA676,Suozhen,wallet,1,highamount
+TRAN1788,USERID555,38518,07-01-2024,payement,MA677,not data,wallet,2,unknow location
+TRAN1789,USERID556,17729,07-01-2024,payement,MA678,Nglengkir,banktranfer,3,N/A
+TRAN1790,USERID557,56746,07-01-2024,payement,MA679,Vista Hermosa,banktranfer,1,highamount
+TRAN1791,USERID558,16871,07-01-2024,payement,MA680,Hebu,wallet,3,N/A
+TRAN1792,USERID559,34037,07-01-2024,payement,MA681,not data,wallet,2,unknow location
+TRAN1793,USERID560,48676,07-01-2024,withdrawal,MA682,not data,banktranfer,2,unknow location
+TRAN1794,USERID561,65483,07-01-2024,withdrawal,MA683,Ramm?n,banktranfer,1,highamount
+TRAN1795,USERID562,99173,07-01-2024,withdrawal,MA684,Kasungu,banktranfer,1,highamount
+TRAN1796,USERID563,31996,07-01-2024,transfer,MA685,not data,wallet,2,unknow location
+TRAN1797,USERID564,43777,07-01-2024,transfer,MA686,not data,banktranfer,2,unknow location
+TRAN1798,USERID565,23947,07-01-2024,transfer,MA687,Rychtal,wallet,3,N/A
+TRAN1799,USERID566,97660,07-01-2024,withdrawal,MA688,Novominskaya,wallet,1,highamount
+TRAN1800,USERID567,70144,07-01-2024,transfer,MA689,Cabucgayan,wallet,1,highamount
+TRAN1801,USERID568,86434,07-01-2024,withdrawal,MA690,Al Fuwayliq,credit,1,highamount
+TRAN1802,USERID569,80090,07-01-2024,transfer,MA691,Piraí,banktranfer,1,highamount
+TRAN1803,USERID570,75048,07-01-2024,withdrawal,MA692,Arsenal,banktranfer,1,highamount
+TRAN1804,USERID571,66646,07-01-2024,transfer,MA693,Lanhe,wallet,1,highamount
+TRAN1805,USERID572,66989,07-01-2024,payement,MA694,Gombang,banktranfer,1,highamount
+TRAN1806,USERID573,42953,07-01-2024,transfer,MA695,not data,wallet,2,unknow location
+TRAN1807,USERID574,37288,07-01-2024,withdrawal,MA696,not data,banktranfer,2,unknow location
+TRAN1808,USERID575,15280,07-01-2024,payement,MA697,Drybin,credit,3,N/A
+TRAN1809,USERID576,90781,07-01-2024,transfer,MA698,Setúbal,banktranfer,1,highamount
+TRAN1810,USERID577,88611,07-01-2024,payement,MA699,Longsha,credit,1,highamount
+TRAN1811,USERID578,11030,07-01-2024,withdrawal,MA700,Santos Dumont,credit,3,N/A
+TRAN1812,USERID579,50786,07-01-2024,withdrawal,MA701,Doushaguan,credit,1,highamount
+TRAN1813,USERID580,16996,07-01-2024,withdrawal,MA702,Stockholm,wallet,3,N/A
+TRAN1814,USERID581,92608,07-01-2024,payement,MA703,Zhaoyuan,banktranfer,1,highamount
+TRAN1815,USERID582,49788,07-01-2024,transfer,MA704,not data,credit,2,unknow location
+TRAN1816,USERID583,21725,07-01-2024,transfer,MA705,18 de Marzo,credit,3,N/A
+TRAN1817,USERID584,27915,07-01-2024,withdrawal,MA706,Akademija (Kaunas),banktranfer,3,N/A
+TRAN1818,USERID585,79229,07-01-2024,transfer,MA707,Wates,credit,1,highamount
+TRAN1819,USERID586,68078,07-01-2024,payement,MA708,Monte da Boavista,wallet,1,highamount
+TRAN1820,USERID587,15503,07-01-2024,withdrawal,MA709,20 de Noviembre,credit,3,N/A
+TRAN1821,USERID588,74086,07-01-2024,withdrawal,MA710,Xingren,wallet,1,highamount
+TRAN1822,USERID589,87355,07-01-2024,withdrawal,MA711,San Nicolas,wallet,1,highamount
+TRAN1823,USERID590,62786,07-01-2024,transfer,MA712,Alamar,wallet,1,highamount
+TRAN1824,USERID591,12341,07-01-2024,payement,MA713,Krajan,credit,3,N/A
+TRAN1825,USERID592,64899,07-01-2024,payement,MA714,Luau,banktranfer,1,highamount
+TRAN1826,USERID593,98052,07-01-2024,withdrawal,MA715,Peicheng,credit,1,highamount
+TRAN1827,USERID594,94813,07-01-2024,withdrawal,MA716,Suyang,banktranfer,1,highamount
+TRAN1828,USERID595,47347,07-01-2024,transfer,MA717,not data,credit,2,unknow location
+TRAN1829,USERID596,48970,07-01-2024,payement,MA718,not data,banktranfer,2,unknow location
+TRAN1830,USERID597,37714,07-01-2024,transfer,MA719,not data,wallet,2,unknow location
+TRAN1831,USERID598,13087,07-01-2024,transfer,MA720,Banyue,banktranfer,3,N/A
+TRAN1832,USERID599,35063,07-01-2024,transfer,MA721,not data,wallet,2,unknow location
+TRAN1833,USERID600,88149,07-01-2024,withdrawal,MA722,Qu? Châu,credit,1,highamount
+TRAN1834,USERID601,51544,07-01-2024,payement,MA723,Alençon,banktranfer,1,highamount
+TRAN1835,USERID602,70765,07-01-2024,transfer,MA724,Jal?lpur,banktranfer,1,highamount
+TRAN1836,USERID603,54046,07-01-2024,withdrawal,MA725,Nanfeng,wallet,1,highamount
+TRAN1837,USERID604,43356,07-01-2024,withdrawal,MA726,not data,banktranfer,2,unknow location
+TRAN1838,USERID605,59418,07-01-2024,transfer,MA727,Bishan,credit,1,highamount
+TRAN1839,USERID606,35272,07-01-2024,withdrawal,MA728,not data,credit,2,unknow location
+TRAN1840,USERID607,52170,07-01-2024,transfer,MA729,Astorga,credit,1,highamount
+TRAN1841,USERID608,78560,07-01-2024,transfer,MA730,Taohua,banktranfer,1,highamount
+TRAN1842,USERID609,31811,07-01-2024,transfer,MA731,not data,credit,2,unknow location
+TRAN1843,USERID610,47591,07-01-2024,payement,MA732,not data,banktranfer,2,unknow location
+TRAN1844,USERID611,76837,07-01-2024,payement,MA733,Tangqian,wallet,1,highamount
+TRAN1845,USERID612,59459,07-01-2024,withdrawal,MA734,Ribnica na Pohorju,banktranfer,1,highamount
+TRAN1846,USERID613,48457,07-01-2024,withdrawal,MA735,not data,credit,2,unknow location
+TRAN1847,USERID614,76233,07-01-2024,withdrawal,MA736,Sasayama,wallet,1,highamount
+TRAN1848,USERID615,38036,07-01-2024,payement,MA737,not data,banktranfer,2,unknow location
+TRAN1849,USERID616,91759,07-01-2024,payement,MA738,Sepolong Timur,credit,1,highamount
+TRAN1850,USERID617,71553,07-01-2024,transfer,MA739,Kaeng Khro,credit,1,highamount
+TRAN1851,USERID618,68432,07-01-2024,withdrawal,MA740,Kalinovskoye,credit,1,highamount
+TRAN1852,USERID619,18200,07-01-2024,transfer,MA741,Eldoret,credit,3,N/A
+TRAN1853,USERID620,61417,07-01-2024,withdrawal,MA742,Dalongdong,banktranfer,1,highamount
+TRAN1854,USERID621,87109,07-01-2024,transfer,MA743,Zhongyuanlu,banktranfer,1,highamount
+TRAN1855,USERID622,59419,07-01-2024,payement,MA744,Tlogowungu,wallet,1,highamount
+TRAN1856,USERID623,66217,07-01-2024,withdrawal,MA745,Sanlicheng,wallet,1,highamount
+TRAN1857,USERID624,26722,07-01-2024,payement,MA746,Ketara,wallet,3,N/A
+TRAN1858,USERID625,47155,07-01-2024,transfer,MA747,not data,credit,2,unknow location
+TRAN1859,USERID626,27030,07-01-2024,payement,MA748,Ciawitali,banktranfer,3,N/A
+TRAN1860,USERID627,39754,07-01-2024,withdrawal,MA749,not data,wallet,2,unknow location
+TRAN1861,USERID628,30251,07-01-2024,transfer,MA750,not data,credit,2,unknow location
+TRAN1862,USERID629,20655,07-01-2024,withdrawal,MA751,Midland,wallet,3,N/A
+TRAN1863,USERID630,90108,07-01-2024,withdrawal,MA752,Yangqing,banktranfer,1,highamount
+TRAN1864,USERID631,38757,07-01-2024,payement,MA753,not data,banktranfer,2,unknow location
+TRAN1865,USERID632,39197,07-01-2024,transfer,MA754,not data,wallet,2,unknow location
+TRAN1866,USERID633,83680,07-01-2024,withdrawal,MA755,Hongyuan,credit,1,highamount
+TRAN1867,USERID634,18665,07-01-2024,payement,MA756,Fushë-Muhurr,banktranfer,3,N/A
+TRAN1868,USERID635,43128,07-01-2024,payement,MA757,not data,wallet,2,unknow location
+TRAN1869,USERID636,25148,07-01-2024,withdrawal,MA758,Oliveira de Frades,banktranfer,3,N/A
+TRAN1870,USERID637,62170,07-01-2024,transfer,MA759,Dongkeng,credit,1,highamount
+TRAN1871,USERID638,95956,07-01-2024,withdrawal,MA760,Bojongsari,banktranfer,1,highamount
+TRAN1872,USERID639,71007,07-01-2024,payement,MA761,Batsari,wallet,1,highamount
+TRAN1873,USERID640,19977,07-01-2024,payement,MA762,Toulon,credit,3,N/A
+TRAN1874,USERID641,91072,07-01-2024,payement,MA763,Shiogama,wallet,1,highamount
+TRAN1875,USERID642,27271,07-01-2024,withdrawal,MA764,Xibër-Murrizë,credit,3,N/A
+TRAN1876,USERID643,12903,07-01-2024,transfer,MA765,Paraíso de Chabasquén,credit,3,N/A
+TRAN1877,USERID644,15937,07-01-2024,transfer,MA766,Blois,credit,3,N/A
+TRAN1878,USERID645,32684,07-01-2024,withdrawal,MA767,not data,banktranfer,2,unknow location
+TRAN1879,USERID646,67322,07-01-2024,transfer,MA768,Berdorf,wallet,1,highamount
+TRAN1880,USERID647,40518,07-01-2024,payement,MA769,not data,wallet,2,unknow location
+TRAN1881,USERID648,49580,07-01-2024,withdrawal,MA770,not data,wallet,2,unknow location
+TRAN1882,USERID649,99969,07-01-2024,transfer,MA771,Pagarbatu,credit,1,highamount
+TRAN1883,USERID650,70929,07-01-2024,withdrawal,MA772,Jianxin,banktranfer,1,highamount
+TRAN1884,USERID651,30192,07-01-2024,withdrawal,MA773,not data,banktranfer,2,unknow location
+TRAN1885,USERID652,29853,07-01-2024,transfer,MA774,Crespo,wallet,3,N/A
+TRAN1886,USERID653,66811,07-01-2024,payement,MA775,Uppsala,banktranfer,1,highamount
+TRAN1887,USERID654,60860,07-01-2024,payement,MA776,Mingguang,wallet,1,highamount
+TRAN1888,USERID655,44399,07-01-2024,transfer,MA777,not data,banktranfer,2,unknow location
+TRAN1889,USERID656,73095,07-01-2024,withdrawal,MA778,Tekes,credit,1,highamount
+TRAN1890,USERID657,77813,07-01-2024,withdrawal,MA779,Haguenau,credit,1,highamount
+TRAN1891,USERID658,18675,07-01-2024,withdrawal,MA780,Hengshitang,wallet,3,N/A
+TRAN1892,USERID659,98018,07-01-2024,payement,MA781,Chenxiang,wallet,1,highamount
+TRAN1893,USERID660,86882,07-01-2024,withdrawal,MA782,Progreso,banktranfer,1,highamount
+TRAN1894,USERID661,21690,07-01-2024,withdrawal,MA783,Bailan,banktranfer,3,N/A
+TRAN1895,USERID662,48130,07-01-2024,payement,MA784,not data,banktranfer,2,unknow location
+TRAN1896,USERID663,73768,07-01-2024,payement,MA785,Mindyak,wallet,1,highamount
+TRAN1897,USERID664,24744,07-01-2024,transfer,MA786,Ta Khmau,credit,3,N/A
+TRAN1898,USERID665,37781,07-01-2024,payement,MA787,not data,banktranfer,2,unknow location
+TRAN1899,USERID666,21692,07-01-2024,withdrawal,MA788,Rabat,banktranfer,3,N/A
+TRAN1900,USERID667,39833,07-01-2024,transfer,MA789,not data,banktranfer,2,unknow location
+TRAN1901,USERID668,73770,07-01-2024,withdrawal,MA790,Mancogeh,banktranfer,1,highamount
+TRAN1902,USERID669,26606,07-01-2024,payement,MA791,Fatumuti,banktranfer,3,N/A
+TRAN1903,USERID670,32499,07-01-2024,payement,MA792,not data,banktranfer,2,unknow location
+TRAN1904,USERID671,77332,07-01-2024,transfer,MA793,St?žery,credit,1,highamount
+TRAN1905,USERID672,28486,07-01-2024,payement,MA794,Tres Arroyos,credit,3,N/A
+TRAN1906,USERID673,22839,07-01-2024,payement,MA795,Edgeworthstown,credit,3,N/A
+TRAN1907,USERID674,48119,07-01-2024,transfer,MA796,not data,banktranfer,2,unknow location
+TRAN1908,USERID675,63581,07-01-2024,payement,MA797,Ruma,wallet,1,highamount
+TRAN1909,USERID676,93869,07-01-2024,payement,MA798,Liandu,credit,1,highamount
+TRAN1910,USERID677,91793,07-01-2024,transfer,MA799,Guadalupe,banktranfer,1,highamount
+TRAN1911,USERID678,42477,07-01-2024,withdrawal,MA800,not data,banktranfer,2,unknow location
+TRAN1912,USERID679,85173,07-01-2024,withdrawal,MA801,Brody,wallet,1,highamount
+TRAN1913,USERID680,19882,07-01-2024,withdrawal,MA802,Berezivka,wallet,3,N/A
+TRAN1914,USERID681,50646,07-01-2024,withdrawal,MA803,Guishan,wallet,1,highamount
+TRAN1915,USERID682,17162,07-01-2024,withdrawal,MA804,Condong,banktranfer,3,N/A
+TRAN1916,USERID683,58866,07-01-2024,transfer,MA805,Purwosari,banktranfer,1,highamount
+TRAN1917,USERID684,20345,07-01-2024,payement,MA806,Ciguna,credit,3,N/A
+TRAN1918,USERID685,41315,07-01-2024,withdrawal,MA807,not data,banktranfer,2,unknow location
+TRAN1919,USERID686,11384,07-01-2024,transfer,MA808,Pandanrejokrajan,banktranfer,3,N/A
+TRAN1920,USERID687,77656,07-01-2024,payement,MA809,Guradog,credit,1,highamount
+TRAN1921,USERID688,63391,07-01-2024,transfer,MA810,Moulay Bouchta,credit,1,highamount
+TRAN1922,USERID689,39225,07-01-2024,withdrawal,MA811,not data,wallet,2,unknow location
+TRAN1923,USERID690,16840,07-01-2024,withdrawal,MA812,Villefranche-sur-Mer,wallet,3,N/A
+TRAN1924,USERID691,26837,07-01-2024,withdrawal,MA813,Cerme Kidul,wallet,3,N/A
+TRAN1925,USERID692,36847,07-01-2024,transfer,MA814,not data,banktranfer,2,unknow location
+TRAN1926,USERID693,54779,07-01-2024,payement,MA815,Shuangyang,banktranfer,1,highamount
+TRAN1927,USERID694,40205,07-01-2024,payement,MA816,not data,wallet,2,unknow location
+TRAN1928,USERID695,36739,07-01-2024,payement,MA817,not data,banktranfer,2,unknow location
+TRAN1929,USERID696,21982,07-01-2024,transfer,MA818,El Plan,wallet,3,N/A
+TRAN1930,USERID697,40820,07-01-2024,payement,MA819,not data,banktranfer,2,unknow location
+TRAN1931,USERID698,61033,07-01-2024,payement,MA820,Kakogawach?-honmachi,credit,1,highamount
+TRAN1932,USERID699,60674,07-01-2024,payement,MA821,Iracemápolis,credit,1,highamount
+TRAN1933,USERID700,24895,07-01-2024,withdrawal,MA822,Hino,banktranfer,3,N/A
+TRAN1934,USERID701,10546,07-01-2024,transfer,MA823,Monte Redondo,banktranfer,3,N/A
+TRAN1935,USERID702,69265,07-01-2024,withdrawal,MA824,?abia Wola,wallet,1,highamount
+TRAN1936,USERID703,16223,07-01-2024,transfer,MA825,Villa Dolores,wallet,3,N/A
+TRAN1937,USERID704,94050,07-01-2024,payement,MA826,Kladi,credit,1,highamount
+TRAN1938,USERID705,76094,07-01-2024,payement,MA827,Budapest,banktranfer,1,highamount
+TRAN1939,USERID706,46511,07-01-2024,withdrawal,MA828,not data,banktranfer,2,unknow location
+TRAN1940,USERID707,25706,07-01-2024,transfer,MA829,Xia Dawo,credit,3,N/A
+TRAN1941,USERID708,90615,07-01-2024,payement,MA830,El Porvenir,banktranfer,1,highamount
+TRAN1942,USERID709,30872,07-01-2024,payement,MA831,not data,wallet,2,unknow location
+TRAN1943,USERID710,37752,07-01-2024,payement,MA832,not data,banktranfer,2,unknow location
+TRAN1944,USERID711,42327,07-01-2024,withdrawal,MA833,not data,credit,2,unknow location
+TRAN1945,USERID712,63841,07-01-2024,withdrawal,MA834,Byumba,banktranfer,1,highamount
+TRAN1946,USERID713,15567,08-01-2024,withdrawal,MA835,Granada,banktranfer,3,N/A
+TRAN1947,USERID714,95166,08-01-2024,withdrawal,MA836,Katipunan,credit,1,highamount
+TRAN1948,USERID715,95043,08-01-2024,withdrawal,MA837,Cantagallo,banktranfer,1,highamount
+TRAN1949,USERID716,27039,08-01-2024,withdrawal,MA838,Duyanggang,banktranfer,3,N/A
+TRAN1950,USERID717,63731,08-01-2024,payement,MA839,Libei,credit,1,highamount
+TRAN1951,USERID718,81671,08-01-2024,withdrawal,MA840,Argotirto Krajan,banktranfer,1,highamount
+TRAN1952,USERID719,13146,08-01-2024,payement,MA841,Siasi,banktranfer,3,N/A
+TRAN1953,USERID720,45498,08-01-2024,withdrawal,MA842,not data,wallet,2,unknow location
+TRAN1954,USERID721,14912,08-01-2024,transfer,MA843,Xiaosong,credit,3,N/A
+TRAN1955,USERID722,93071,08-01-2024,withdrawal,MA844,Lévis,wallet,1,highamount
+TRAN1956,USERID723,43304,08-01-2024,transfer,MA845,not data,wallet,2,unknow location
+TRAN1957,USERID724,74297,08-01-2024,withdrawal,MA846,Duko,credit,1,highamount
+TRAN1958,USERID725,53029,08-01-2024,transfer,MA847,N?r?b?d,banktranfer,1,highamount
+TRAN1959,USERID726,40147,08-01-2024,withdrawal,MA848,not data,wallet,2,unknow location
+TRAN1960,USERID727,74356,08-01-2024,payement,MA849,Julun,wallet,1,highamount
+TRAN1961,USERID728,73114,08-01-2024,payement,MA850,Yinhe,credit,1,highamount
+TRAN1962,USERID729,29259,08-01-2024,payement,MA851,Emiliano Zapata,banktranfer,3,N/A
+TRAN1963,USERID730,93175,08-01-2024,transfer,MA852,Vyzhnytsya,credit,1,highamount
+TRAN1964,USERID731,77416,08-01-2024,payement,MA853,Karangmulya,wallet,1,highamount
+TRAN1965,USERID732,92893,08-01-2024,payement,MA854,Wenqiao,credit,1,highamount
+TRAN1966,USERID733,81133,08-01-2024,withdrawal,MA855,Guaramirim,banktranfer,1,highamount
+TRAN1967,USERID734,22000,08-01-2024,withdrawal,MA856,Koynare,banktranfer,3,N/A
+TRAN1968,USERID735,49083,08-01-2024,withdrawal,MA857,not data,credit,2,unknow location
+TRAN1969,USERID736,53205,08-01-2024,withdrawal,MA858,Engenho,credit,1,highamount
+TRAN1970,USERID737,54016,08-01-2024,transfer,MA859,Libertad,wallet,1,highamount
+TRAN1971,USERID738,34596,08-01-2024,payement,MA860,not data,credit,2,unknow location
+TRAN1972,USERID739,87739,08-01-2024,payement,MA861,Distracción,credit,1,highamount
+TRAN1973,USERID740,19915,08-01-2024,withdrawal,MA862,Pederneiras,wallet,3,N/A
+TRAN1974,USERID741,67376,08-01-2024,payement,MA863,Jagie??a,credit,1,highamount
+TRAN1975,USERID742,44731,08-01-2024,payement,MA864,not data,credit,2,unknow location
+TRAN1976,USERID743,65710,08-01-2024,payement,MA865,Shuangxi,credit,1,highamount
+TRAN1977,USERID744,24212,08-01-2024,withdrawal,MA866,Bokor,wallet,3,N/A
+TRAN1978,USERID745,27236,08-01-2024,withdrawal,MA867,Nanyue,credit,3,N/A
+TRAN1979,USERID746,35650,08-01-2024,withdrawal,MA868,not data,banktranfer,2,unknow location
+TRAN1980,USERID747,61135,08-01-2024,transfer,MA869,Staryy Oskol,wallet,1,highamount
+TRAN1981,USERID748,80226,08-01-2024,payement,MA870,Chahe,credit,1,highamount
+TRAN1982,USERID749,85658,08-01-2024,payement,MA871,Shazhou,banktranfer,1,highamount
+TRAN1983,USERID750,11318,08-01-2024,withdrawal,MA872,Zblewo,credit,3,N/A
+TRAN1984,USERID751,56195,08-01-2024,transfer,MA873,Gainesville,credit,1,highamount
+TRAN1985,USERID752,78835,08-01-2024,transfer,MA874,Billings,credit,1,highamount
+TRAN1986,USERID753,96398,08-01-2024,payement,MA875,Kingston,wallet,1,highamount
+TRAN1987,USERID754,15398,08-01-2024,payement,MA876,Alexandria,credit,3,N/A
+TRAN1988,USERID755,40056,08-01-2024,transfer,MA877,not data,banktranfer,2,unknow location
+TRAN1989,USERID756,68049,08-01-2024,transfer,MA878,Stockholm,wallet,1,highamount
+TRAN1990,USERID757,21560,08-01-2024,transfer,MA879,Armamar,banktranfer,3,N/A
+TRAN1991,USERID758,47138,08-01-2024,withdrawal,MA880,not data,banktranfer,2,unknow location
+TRAN1992,USERID759,82418,08-01-2024,transfer,MA881,Dongyu,credit,1,highamount
+TRAN1993,USERID760,16444,08-01-2024,transfer,MA882,Hongqi,credit,3,N/A
+TRAN1994,USERID761,77938,08-01-2024,payement,MA883,Cangshan,wallet,1,highamount
+TRAN1995,USERID762,98598,08-01-2024,payement,MA884,Gilowice,banktranfer,1,highamount
+TRAN1996,USERID763,93117,08-01-2024,transfer,MA885,La Maná,credit,1,highamount
+TRAN1997,USERID764,24781,08-01-2024,payement,MA886,Ouidah,banktranfer,3,N/A
+TRAN1998,USERID765,57703,08-01-2024,payement,MA887,Glazov,wallet,1,highamount
+TRAN1999,USERID766,38047,08-01-2024,withdrawal,MA888,not data,wallet,2,unknow location
+TRAN2000,USERID767,43266,08-01-2024,transfer,MA889,not data,credit,2,unknow location
+TRAN2001,USERID768,73591,08-01-2024,payement,MA890,Dubrovka,banktranfer,1,highamount
+TRAN2002,USERID769,50978,08-01-2024,transfer,MA891,Fangxiang,credit,1,highamount
+TRAN2003,USERID770,66354,08-01-2024,transfer,MA892,Lincoln,credit,1,highamount
+TRAN2004,USERID771,89299,08-01-2024,withdrawal,MA893,Gudurica,banktranfer,1,highamount
+TRAN2005,USERID772,97911,08-01-2024,payement,MA894,Santiago De Compostela,banktranfer,1,highamount
+TRAN2006,USERID773,26327,08-01-2024,withdrawal,MA895,Ha,credit,3,N/A
+TRAN2007,USERID774,89497,08-01-2024,withdrawal,MA896,Palhais,wallet,1,highamount
+TRAN2008,USERID775,40168,08-01-2024,payement,MA897,not data,wallet,2,unknow location
+TRAN2009,USERID776,42137,08-01-2024,transfer,MA898,not data,wallet,2,unknow location
+TRAN2010,USERID777,55374,08-01-2024,payement,MA899,Cabañas,wallet,1,highamount
+TRAN2011,USERID778,84830,08-01-2024,payement,MA900,Kota Kinabalu,wallet,1,highamount
+TRAN2012,USERID779,74858,08-01-2024,withdrawal,MA901,Mungui,banktranfer,1,highamount
+TRAN2013,USERID780,32179,08-01-2024,payement,MA902,not data,credit,2,unknow location
+TRAN2014,USERID781,29761,08-01-2024,transfer,MA903,Stepnogorsk,banktranfer,3,N/A
+TRAN2015,USERID782,20027,08-01-2024,payement,MA904,Delães,banktranfer,3,N/A
+TRAN2016,USERID783,60246,08-01-2024,payement,MA905,General Belgrano,banktranfer,1,highamount
+TRAN2017,USERID784,34997,08-01-2024,withdrawal,MA906,not data,credit,2,unknow location
+TRAN2018,USERID785,31191,08-01-2024,transfer,MA907,not data,banktranfer,2,unknow location
+TRAN2019,USERID786,81215,08-01-2024,transfer,MA908,Cuiabá,banktranfer,1,highamount
+TRAN2020,USERID787,34658,08-01-2024,withdrawal,MA909,not data,banktranfer,2,unknow location
+TRAN2021,USERID788,86071,08-01-2024,payement,MA910,Sannois,banktranfer,1,highamount
+TRAN2022,USERID789,62127,08-01-2024,transfer,MA911,Huangliang,wallet,1,highamount
+TRAN2023,USERID790,40949,08-01-2024,transfer,MA912,not data,banktranfer,2,unknow location
+TRAN2024,USERID791,68660,09-01-2024,withdrawal,MA913,Séguéla,banktranfer,1,highamount
+TRAN2025,USERID792,99588,09-01-2024,payement,MA914,Harstad,wallet,1,highamount
+TRAN2026,USERID793,10589,09-01-2024,transfer,MA915,Puerto San José,credit,3,N/A
+TRAN2027,USERID794,48635,09-01-2024,withdrawal,MA916,not data,wallet,2,unknow location
+TRAN2028,USERID795,63133,09-01-2024,transfer,MA917,Czerniewice,credit,1,highamount
+TRAN2029,USERID796,63592,09-01-2024,withdrawal,MA918,Brampton,banktranfer,1,highamount
+TRAN2030,USERID797,66849,09-01-2024,payement,MA919,Mataraben,wallet,1,highamount
+TRAN2031,USERID798,60605,09-01-2024,payement,MA920,Bunda,banktranfer,1,highamount
+TRAN2032,USERID799,31335,09-01-2024,payement,MA921,not data,banktranfer,2,unknow location
+TRAN2033,USERID800,60594,09-01-2024,withdrawal,MA922,Palmas,credit,1,highamount
+TRAN2034,USERID801,35866,09-01-2024,payement,MA923,not data,credit,2,unknow location
+TRAN2035,USERID802,24707,09-01-2024,payement,MA924,Leeuwarden,credit,3,N/A
+TRAN2036,USERID803,51427,09-01-2024,transfer,MA925,Libmanan,banktranfer,1,highamount
+TRAN2037,USERID804,88951,09-01-2024,withdrawal,MA926,Vogar,banktranfer,1,highamount
+TRAN2038,USERID805,56937,09-01-2024,transfer,MA927,Morawica,credit,1,highamount
+TRAN2039,USERID806,40041,09-01-2024,transfer,MA928,not data,banktranfer,2,unknow location
+TRAN2040,USERID807,59464,09-01-2024,payement,MA929,Pañgobilian,wallet,1,highamount
+TRAN2041,USERID808,15864,09-01-2024,withdrawal,MA930,Terenozek,wallet,3,N/A
+TRAN2042,USERID809,54055,09-01-2024,payement,MA931,Sukoanyar,wallet,1,highamount
+TRAN2043,USERID810,50799,09-01-2024,transfer,MA932,Philadelphia,wallet,1,highamount
+TRAN2044,USERID811,87018,09-01-2024,payement,MA933,Ani-e,banktranfer,1,highamount
+TRAN2045,USERID812,14782,09-01-2024,transfer,MA934,Kumagunnam,banktranfer,3,N/A
+TRAN2046,USERID813,63998,09-01-2024,transfer,MA935,Dijon,banktranfer,1,highamount
+TRAN2047,USERID814,81790,09-01-2024,withdrawal,MA936,La Roche-sur-Yon,banktranfer,1,highamount
+TRAN2048,USERID815,45605,09-01-2024,withdrawal,MA937,not data,banktranfer,2,unknow location
+TRAN2049,USERID816,62126,09-01-2024,payement,MA938,Jiblah,credit,1,highamount
+TRAN2050,USERID817,85900,09-01-2024,transfer,MA939,Seremban,banktranfer,1,highamount
+TRAN2051,USERID818,65317,09-01-2024,transfer,MA940,Canaries,banktranfer,1,highamount
+TRAN2052,USERID819,68093,09-01-2024,withdrawal,MA941,Leiden,wallet,1,highamount
+TRAN2053,USERID820,22866,09-01-2024,transfer,MA942,Frederiksberg,wallet,3,N/A
+TRAN2054,USERID821,24118,09-01-2024,payement,MA943,Soure,wallet,3,N/A
+TRAN2055,USERID822,20310,09-01-2024,payement,MA944,Buyende,wallet,3,N/A
+TRAN2056,USERID823,80846,09-01-2024,transfer,MA945,Aylmer,credit,1,highamount
+TRAN2057,USERID824,56697,09-01-2024,withdrawal,MA946,Umm as S?hik,banktranfer,1,highamount
+TRAN2058,USERID825,63122,09-01-2024,transfer,MA947,Qingtang,credit,1,highamount
+TRAN2059,USERID826,68364,09-01-2024,withdrawal,MA948,Dikson,credit,1,highamount
+TRAN2060,USERID827,54010,09-01-2024,payement,MA949,Saint-Lô,wallet,1,highamount
+TRAN2061,USERID828,27568,09-01-2024,transfer,MA950,Kamirenjaku,credit,3,N/A
+TRAN2062,USERID829,46239,09-01-2024,payement,MA951,not data,banktranfer,2,unknow location
+TRAN2063,USERID830,56385,09-01-2024,payement,MA952,Upi,wallet,1,highamount
+TRAN2064,USERID831,93564,09-01-2024,payement,MA953,Bessonovka,banktranfer,1,highamount
+TRAN2065,USERID832,72498,09-01-2024,payement,MA954,Masku,credit,1,highamount
+TRAN2066,USERID833,73147,09-01-2024,payement,MA955,Ramat Gan,wallet,1,highamount
+TRAN2067,USERID834,88091,09-01-2024,payement,MA956,Puerto Iguazú,wallet,1,highamount
+TRAN2068,USERID835,39847,09-01-2024,withdrawal,MA957,not data,wallet,2,unknow location
+TRAN2069,USERID836,92317,09-01-2024,payement,MA958,Farap,wallet,1,highamount
+TRAN2070,USERID837,26417,09-01-2024,transfer,MA959,Muting,banktranfer,3,N/A
+TRAN2071,USERID838,86967,09-01-2024,transfer,MA960,Sungaiduri,banktranfer,1,highamount
+TRAN2072,USERID839,20339,09-01-2024,payement,MA961,Xiangrong,credit,3,N/A
+TRAN2073,USERID840,71624,09-01-2024,payement,MA962,Jicun,banktranfer,1,highamount
+TRAN2074,USERID841,71108,09-01-2024,withdrawal,MA963,Cincinnati,credit,1,highamount
+TRAN2075,USERID842,17310,09-01-2024,withdrawal,MA964,Dinalongan,banktranfer,3,N/A
+TRAN2076,USERID843,91951,09-01-2024,payement,MA965,Zhongzhai,credit,1,highamount
+TRAN2077,USERID844,92373,09-01-2024,withdrawal,MA966,Kudamatsu,credit,1,highamount
+TRAN2078,USERID845,40684,09-01-2024,withdrawal,MA967,not data,credit,2,unknow location
+TRAN2079,USERID846,76917,09-01-2024,withdrawal,MA968,Apodi,wallet,1,highamount
+TRAN2080,USERID847,33081,09-01-2024,withdrawal,MA969,not data,credit,2,unknow location
+TRAN2081,USERID848,67391,09-01-2024,payement,MA970,Kampen (Overijssel),wallet,1,highamount
+TRAN2082,USERID849,68803,09-01-2024,withdrawal,MA971,Novalja,credit,1,highamount
+TRAN2083,USERID850,15019,09-01-2024,withdrawal,MA972,Kyurdarmir,wallet,3,N/A
+TRAN2084,USERID851,99588,09-01-2024,withdrawal,MA973,Brody,credit,1,highamount
+TRAN2085,USERID852,28207,09-01-2024,payement,MA974,Kireyevsk,banktranfer,3,N/A
+TRAN2086,USERID853,23636,09-01-2024,payement,MA975,Tungoo,banktranfer,3,N/A
+TRAN2087,USERID854,93890,09-01-2024,withdrawal,MA976,Springfield,wallet,1,highamount
+TRAN2088,USERID855,10744,09-01-2024,withdrawal,MA977,Infanta,credit,3,N/A
+TRAN2089,USERID856,30856,09-01-2024,transfer,MA978,not data,credit,2,unknow location
+TRAN2090,USERID857,23933,09-01-2024,transfer,MA979,Santa Cruz,wallet,3,N/A
+TRAN2091,USERID858,99042,09-01-2024,withdrawal,MA980,Lanxi,wallet,1,highamount
+TRAN2092,USERID859,19369,09-01-2024,payement,MA981,Saint-Quentin,credit,3,N/A
+TRAN2093,USERID860,11783,09-01-2024,transfer,MA982,Ncue,banktranfer,3,N/A
+TRAN2094,USERID861,66609,09-01-2024,payement,MA983,Javorník,credit,1,highamount
+TRAN2095,USERID862,58895,09-01-2024,payement,MA984,Bystra,wallet,1,highamount
+TRAN2096,USERID863,63672,09-01-2024,transfer,MA985,Carquefou,banktranfer,1,highamount
+TRAN2097,USERID864,52871,09-01-2024,transfer,MA986,Bejuco,wallet,1,highamount
+TRAN2098,USERID865,91329,09-01-2024,transfer,MA987,Kebon Tengah,credit,1,highamount
+TRAN2099,USERID866,74086,09-01-2024,withdrawal,MA988,Kota Kinabalu,wallet,1,highamount
+TRAN2100,USERID867,58681,09-01-2024,payement,MA989,Gaoshi,banktranfer,1,highamount
+TRAN2101,USERID868,33184,09-01-2024,transfer,MA990,not data,credit,2,unknow location
+TRAN2102,USERID869,26522,09-01-2024,payement,MA991,Vila Chã,credit,3,N/A
+TRAN2103,USERID870,80683,09-01-2024,withdrawal,MA992,Naifalo,banktranfer,1,highamount
+TRAN2104,USERID871,85414,09-01-2024,withdrawal,MA993,Shah Alam,wallet,1,highamount
+TRAN2105,USERID872,71920,09-01-2024,payement,MA994,Sehw?n,credit,1,highamount
+TRAN2106,USERID873,22251,09-01-2024,payement,MA995,Ban Huai Thalaeng,wallet,3,N/A
+TRAN2107,USERID874,33138,09-01-2024,transfer,MA996,not data,credit,2,unknow location
+TRAN2108,USERID875,73783,10-01-2024,transfer,MA997,Kotlovka,banktranfer,1,highamount
+TRAN2109,USERID876,45794,10-01-2024,withdrawal,MA998,not data,credit,2,unknow location
+TRAN2110,USERID877,21982,10-01-2024,withdrawal,MA999,Angered,wallet,3,N/A
+TRAN2111,USERID878,71133,10-01-2024,transfer,MA1000,Puncaktugu,wallet,1,highamount
+TRAN2112,USERID879,71882,10-01-2024,payement,MA1001,Longwy,banktranfer,1,highamount
+TRAN2113,USERID880,89135,10-01-2024,transfer,MA1002,Chengyang,wallet,1,highamount
+TRAN2114,USERID881,16931,10-01-2024,payement,MA1003,Xiangqiao,wallet,3,N/A
+TRAN2115,USERID882,92290,10-01-2024,transfer,MA1004,Hujiaying,wallet,1,highamount
+TRAN2116,USERID883,26480,10-01-2024,payement,MA1005,Évry,credit,3,N/A
+TRAN2117,USERID884,26950,10-01-2024,payement,MA1006,Smoky Lake,wallet,3,N/A
+TRAN2118,USERID885,75228,10-01-2024,withdrawal,MA1007,Perpignan,wallet,1,highamount
+TRAN2119,USERID886,46940,10-01-2024,withdrawal,MA1008,not data,credit,2,unknow location
+TRAN2120,USERID887,22559,10-01-2024,withdrawal,MA1009,Seminole,credit,3,N/A
+TRAN2121,USERID888,37489,10-01-2024,withdrawal,MA1010,not data,banktranfer,2,unknow location
+TRAN2122,USERID889,86061,10-01-2024,transfer,MA1011,Cane,wallet,1,highamount
+TRAN2123,USERID890,97183,10-01-2024,payement,MA1012,Linjiang,banktranfer,1,highamount
+TRAN2124,USERID891,21528,10-01-2024,payement,MA1013,Clarin,wallet,3,N/A
+TRAN2125,USERID892,50177,10-01-2024,withdrawal,MA1014,Bakovci,credit,1,highamount
+TRAN2126,USERID893,23341,10-01-2024,transfer,MA1015,Xindian,wallet,3,N/A
+TRAN2127,USERID894,73301,10-01-2024,withdrawal,MA1016,H?gere Selam,credit,1,highamount
+TRAN2128,USERID895,72472,10-01-2024,withdrawal,MA1017,Créteil,wallet,1,highamount
+TRAN2129,USERID896,20119,10-01-2024,withdrawal,MA1018,Toluviejo,banktranfer,3,N/A
+TRAN2130,USERID897,11771,10-01-2024,transfer,MA1019,Saatl?,credit,3,N/A
+TRAN2131,USERID898,82880,10-01-2024,transfer,MA1020,Manila,banktranfer,1,highamount
+TRAN2132,USERID899,25763,10-01-2024,transfer,MA1021,Pyatigorskiy,wallet,3,N/A
+TRAN2133,USERID900,23679,10-01-2024,payement,MA1022,Gvozd,wallet,3,N/A
+TRAN2134,USERID901,19433,10-01-2024,transfer,MA1023,Dresden,wallet,3,N/A
+TRAN2135,USERID902,21651,10-01-2024,transfer,MA1024,Jesenice,wallet,3,N/A
+TRAN2136,USERID903,49460,10-01-2024,transfer,MA1025,not data,banktranfer,2,unknow location
+TRAN2137,USERID904,38311,10-01-2024,payement,MA1026,not data,banktranfer,2,unknow location
+TRAN2138,USERID905,76029,10-01-2024,payement,MA1027,Sovetskaya,credit,1,highamount
+TRAN2139,USERID906,27724,10-01-2024,payement,MA1028,Kangar,credit,3,N/A
+TRAN2140,USERID907,13635,10-01-2024,withdrawal,MA1029,Chengjiao,credit,3,N/A
+TRAN2141,USERID908,50096,10-01-2024,withdrawal,MA1030,?urm?n,credit,1,highamount
+TRAN2142,USERID909,39477,10-01-2024,transfer,MA1031,not data,wallet,2,unknow location
+TRAN2143,USERID910,82841,10-01-2024,withdrawal,MA1032,Cijapar,credit,1,highamount
+TRAN2144,USERID911,56636,10-01-2024,withdrawal,MA1033,Göteborg,credit,1,highamount
+TRAN2145,USERID912,61381,10-01-2024,transfer,MA1034,Chum Phae,wallet,1,highamount
+TRAN2146,USERID913,53012,10-01-2024,withdrawal,MA1035,Dafeng,credit,1,highamount
+TRAN2147,USERID914,83461,10-01-2024,withdrawal,MA1036,Ivanec,credit,1,highamount
+TRAN2148,USERID915,70606,10-01-2024,withdrawal,MA1037,Kota Kinabalu,wallet,1,highamount
+TRAN2149,USERID916,68829,10-01-2024,payement,MA1038,Bigaan,banktranfer,1,highamount
+TRAN2150,USERID917,46537,10-01-2024,transfer,MA1039,not data,wallet,2,unknow location
+TRAN2151,USERID918,72167,10-01-2024,withdrawal,MA1040,Atocha,credit,1,highamount
+TRAN2152,USERID919,31076,10-01-2024,payement,MA1041,not data,credit,2,unknow location
+TRAN2153,USERID920,31081,10-01-2024,payement,MA1042,not data,credit,2,unknow location
+TRAN2154,USERID921,79797,10-01-2024,payement,MA1043,Nijemci,credit,1,highamount
+TRAN2155,USERID922,37528,10-01-2024,withdrawal,MA1044,not data,credit,2,unknow location
+TRAN2156,USERID923,41063,10-01-2024,transfer,MA1045,not data,banktranfer,2,unknow location
+TRAN2157,USERID924,63749,10-01-2024,payement,MA1046,Baie-Saint-Paul,wallet,1,highamount
+TRAN2158,USERID925,99995,10-01-2024,transfer,MA1047,Sasykoli,credit,1,highamount
+TRAN2159,USERID926,91819,10-01-2024,payement,MA1048,Potchefstroom,banktranfer,1,highamount
+TRAN2160,USERID927,51518,10-01-2024,withdrawal,MA1049,Solec Nad Wis??,wallet,1,highamount
+TRAN2161,USERID928,92698,10-01-2024,payement,MA1050,"Las Vegas, Santa Barbara",wallet,1,highamount
+TRAN2162,USERID929,53866,10-01-2024,withdrawal,MA1051,Aleshtar,banktranfer,1,highamount
+TRAN2163,USERID930,17687,10-01-2024,withdrawal,MA1052,Shawan,credit,3,N/A
+TRAN2164,USERID931,62876,10-01-2024,transfer,MA1053,Bilalang,credit,1,highamount
+TRAN2165,USERID932,77499,10-01-2024,transfer,MA1054,Sidaohezi,credit,1,highamount
+TRAN2166,USERID933,31222,10-01-2024,payement,MA1055,not data,credit,2,unknow location
+TRAN2167,USERID934,23580,10-01-2024,withdrawal,MA1056,Lamía,credit,3,N/A
+TRAN2168,USERID935,15432,10-01-2024,transfer,MA1057,Guay,credit,3,N/A
+TRAN2169,USERID936,75054,10-01-2024,transfer,MA1058,Gevgelija,wallet,1,highamount
+TRAN2170,USERID937,64944,10-01-2024,withdrawal,MA1059,Liushutun,credit,1,highamount
+TRAN2171,USERID938,60082,10-01-2024,transfer,MA1060,Vai?ode,banktranfer,1,highamount
+TRAN2172,USERID939,27574,10-01-2024,withdrawal,MA1061,Ishioka,wallet,3,N/A
+TRAN2173,USERID940,11998,10-01-2024,transfer,MA1062,Nay Pyi Taw,banktranfer,3,N/A
+TRAN2174,USERID941,98178,10-01-2024,payement,MA1063,Cibeureum,banktranfer,1,highamount
+TRAN2175,USERID942,36540,10-01-2024,payement,MA1064,not data,credit,2,unknow location
+TRAN2176,USERID943,42026,10-01-2024,payement,MA1065,not data,credit,2,unknow location
+TRAN2177,USERID944,55737,10-01-2024,withdrawal,MA1066,Mniszków,credit,1,highamount
+TRAN2178,USERID945,26138,10-01-2024,transfer,MA1067,Akron,wallet,3,N/A
+TRAN2179,USERID946,20741,10-01-2024,transfer,MA1068,Guangping,banktranfer,3,N/A
+TRAN2180,USERID947,85721,10-01-2024,payement,MA1069,Cibanten,credit,1,highamount
+TRAN2181,USERID948,41709,10-01-2024,withdrawal,MA1070,not data,credit,2,unknow location
+TRAN2182,USERID949,13143,10-01-2024,transfer,MA1071,Luoluopu,wallet,3,N/A
+TRAN2183,USERID950,87453,10-01-2024,payement,MA1072,Moriguchi,banktranfer,1,highamount
+TRAN2184,USERID951,24882,10-01-2024,payement,MA1073,Pradera,banktranfer,3,N/A
+TRAN2185,USERID952,60526,10-01-2024,transfer,MA1074,Saint-Chamond,banktranfer,1,highamount
+TRAN2186,USERID953,26499,10-01-2024,payement,MA1075,Nouaseur,credit,3,N/A
+TRAN2187,USERID954,25297,10-01-2024,transfer,MA1076,Pak Phayun,credit,3,N/A
+TRAN2188,USERID955,21005,10-01-2024,payement,MA1077,Plaridel,credit,3,N/A
+TRAN2189,USERID956,95979,10-01-2024,transfer,MA1078,Lapaz,wallet,1,highamount
+TRAN2190,USERID957,33175,10-01-2024,transfer,MA1079,not data,credit,2,unknow location
+TRAN2191,USERID958,66420,10-01-2024,payement,MA1080,Bahía de Caráquez,credit,1,highamount
+TRAN2192,USERID959,55449,10-01-2024,transfer,MA1081,Hat Yai,wallet,1,highamount
+TRAN2193,USERID960,76494,10-01-2024,withdrawal,MA1082,Jar?nw?la,wallet,1,highamount
+TRAN2194,USERID961,43577,10-01-2024,payement,MA1083,not data,wallet,2,unknow location
+TRAN2195,USERID962,73217,10-01-2024,payement,MA1084,Lille,wallet,1,highamount
+TRAN2196,USERID963,42867,10-01-2024,transfer,MA1085,not data,banktranfer,2,unknow location
+TRAN2197,USERID964,52829,10-01-2024,withdrawal,MA1086,Sipeng,banktranfer,1,highamount
+TRAN2198,USERID965,38432,10-01-2024,payement,MA1087,not data,wallet,2,unknow location
+TRAN2199,USERID966,46933,10-01-2024,transfer,MA1088,not data,credit,2,unknow location
+TRAN2200,USERID967,98794,11-01-2024,withdrawal,MA1089,Cidolog,credit,1,highamount
+TRAN2201,USERID968,28753,11-01-2024,payement,MA1090,Kotatengah,banktranfer,3,N/A
+TRAN2202,USERID969,92793,11-01-2024,transfer,MA1091,Dubna,credit,1,highamount
+TRAN2203,USERID970,76826,11-01-2024,withdrawal,MA1092,Woto,wallet,1,highamount
+TRAN2204,USERID971,58412,11-01-2024,withdrawal,MA1093,Marhanets’,credit,1,highamount
+TRAN2205,USERID972,82392,11-01-2024,withdrawal,MA1094,Murmuiža,wallet,1,highamount
+TRAN2206,USERID973,47862,11-01-2024,transfer,MA1095,not data,credit,2,unknow location
+TRAN2207,USERID974,18637,11-01-2024,withdrawal,MA1096,Lañgub,wallet,3,N/A
+TRAN2208,USERID975,50206,11-01-2024,transfer,MA1097,Il’inskiy,banktranfer,1,highamount
+TRAN2209,USERID976,60849,11-01-2024,withdrawal,MA1098,Micha?owice,banktranfer,1,highamount
+TRAN2210,USERID977,40876,11-01-2024,payement,MA1099,not data,credit,2,unknow location
+TRAN2211,USERID978,14602,11-01-2024,payement,MA1100,Przec?aw,credit,3,N/A
+TRAN2212,USERID979,86300,11-01-2024,withdrawal,MA1101,Aguas Verdes,credit,1,highamount
+TRAN2213,USERID980,48205,11-01-2024,transfer,MA1102,not data,wallet,2,unknow location
+TRAN2214,USERID981,77418,11-01-2024,withdrawal,MA1103,Yuxi,wallet,1,highamount
+TRAN2215,USERID982,98130,11-01-2024,withdrawal,MA1104,Linares,wallet,1,highamount
+TRAN2216,USERID983,66884,11-01-2024,transfer,MA1105,Bcharré,wallet,1,highamount
+TRAN2217,USERID984,36382,11-01-2024,payement,MA1106,not data,credit,2,unknow location
+TRAN2218,USERID985,42561,11-01-2024,payement,MA1107,not data,banktranfer,2,unknow location
+TRAN2219,USERID986,60463,11-01-2024,payement,MA1108,Kedungwringin Satu,wallet,1,highamount
+TRAN2220,USERID987,56921,11-01-2024,payement,MA1109,Tanbuqiao,banktranfer,1,highamount
+TRAN2221,USERID988,77494,11-01-2024,transfer,MA1110,Caála,wallet,1,highamount
+TRAN2222,USERID989,65154,11-01-2024,payement,MA1111,Klyetsk,wallet,1,highamount
+TRAN2223,USERID990,40146,11-01-2024,transfer,MA1112,not data,credit,2,unknow location
+TRAN2224,USERID991,22315,11-01-2024,withdrawal,MA1113,Tvarožná,banktranfer,3,N/A
+TRAN2225,USERID992,41337,11-01-2024,withdrawal,MA1114,not data,credit,2,unknow location
+TRAN2226,USERID993,89273,11-01-2024,withdrawal,MA1115,Ilebo,wallet,1,highamount
+TRAN2227,USERID994,54186,11-01-2024,withdrawal,MA1116,Arrufó,banktranfer,1,highamount
+TRAN2228,USERID995,83566,11-01-2024,transfer,MA1117,Diffa,banktranfer,1,highamount
+TRAN2229,USERID996,83319,11-01-2024,withdrawal,MA1118,Cabugao,credit,1,highamount
+TRAN2230,USERID997,29037,11-01-2024,withdrawal,MA1119,Nianba,wallet,3,N/A
+TRAN2231,USERID998,42781,11-01-2024,payement,MA1120,not data,wallet,2,unknow location
+TRAN2232,USERID999,89343,11-01-2024,payement,MA1121,Ngembel,credit,1,highamount
+TRAN2233,USERID1000,69078,11-01-2024,transfer,MA1122,Nzeto,credit,1,highamount
